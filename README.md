@@ -2,13 +2,13 @@
 
 A dimensional data warehouse for credit-card fraud analytics, built on the [Sparkov](https://github.com/namebrandon/Sparkov_Data_Generation) simulated transaction dataset (~1.85M transactions). The project takes raw transaction data through a medallion architecture (bronze → silver → gold) and lands a Kimball star schema, with the entire transformation layer modelled, tested, and documented in **dbt**.
 
-This is the dbt port of an earlier hand-written SQL build. The port wasn't a translation exercise — it was an opportunity to fix two latent bugs, replace fragile patterns with robust ones, and add a self-enforcing test layer the original never had.
+This is the dbt port of an earlier hand-written SQL build. The port wasn't a translation exercise, it was an opportunity to fix two latent bugs, replace fragile patterns with better ones, and add a self-enforcing test layer the original never had.
 
 ---
 
 ## Overview
 
-The warehouse answers fraud-analytics questions — fraud rate by merchant, by customer demographic, by geography, by time, by transaction size — from a clean star schema. The pipeline ingests raw transactions and a merchant master, validates and quarantines bad rows, conforms the survivors into dimensions and a fact table with stable surrogate keys, and guards the whole thing with automated data tests.
+The warehouse answers fraud-analytics questions such as fraud rate by merchant, by customer demographic, by geography, by time, by transaction size, from a clean star schema. The pipeline ingests raw transactions and a merchant master, validates and quarantines bad rows, conforms the survivors into dimensions and a fact table with stable surrogate keys, and guards the whole thing with automated data tests.
 
 **Tech stack:** dbt-core 1.11, dbt-postgres adapter 1.10, PostgreSQL, [dbt_utils](https://github.com/dbt-labs/dbt-utils), DBeaver (inspection).
 
@@ -28,7 +28,7 @@ The pipeline maps onto the medallion layers, each materialised deliberately:
 | Intermediate | `models/intermediate/` | `silver` | view → tables | Validation, quarantine, and cleansing |
 | Marts | `models/marts/` | `gold` | table | Star schema: four dimensions + one fact |
 
-**The intermediate layer is the heart of the design.** A single model, `int_transactions_validated`, computes a per-row verdict — one boolean flag per validation rule plus an overall `is_valid` — and **drops nothing**. Two downstream models fork off that verdict: `int_transactions_clean` (`where is_valid`, plus derived columns) and `int_transactions_rejected` (`where not is_valid`). Because both forks read the same verdict, clean + rejected reconciles to validated **by construction** — it is structurally impossible for the two to disagree.
+**The intermediate layer is the heart of the design.** A single model, `int_transactions_validated`, computes a per-row verdict, one boolean flag per validation rule plus an overall `is_valid`, and **drops nothing**. Two downstream models fork off that verdict: `int_transactions_clean` (`where is_valid`, plus derived columns) and `int_transactions_rejected` (`where not is_valid`). Because both forks read the same verdict, clean + rejected reconciles to validated **by construction**, it is structurally impossible for the two to disagree.
 
 **The marts layer** is a textbook star: `dim_customers`, `dim_merchants`, `dim_locations`, `dim_date`, and the `fct_transactions` fact. Every dimension carries a deterministic hash surrogate key; the fact carries the four foreign keys, a degenerate dimension (`trans_num`), and the measures.
 
@@ -36,11 +36,11 @@ The pipeline maps onto the medallion layers, each materialised deliberately:
 
 ## Key design decisions
 
-This section is the point of the project — the *why* behind the build.
+This section is the main point of the project basically the *why* behind the build.
 
-**Reconciliation by construction, not by hand.** The original SQL build proved clean + rejected = source by maintaining two queries with inverse `WHERE` clauses — fragile, because editing one filter and forgetting the other would silently break the reconciliation with no warning. The redesign computes one `is_valid` verdict and forks both outputs from it, so the invariant holds automatically and is additionally enforced by a test (see below). Reconciliation: **1,852,628 clean + 1,566 rejected = 1,854,194 validated.**
+**Reconciliation by construction, not by hand.** The original SQL build proved clean + rejected = source by maintaining two queries with inverse `WHERE` clauses, fragile, because editing one filter and forgetting the other would silently break the reconciliation with no warning. The redesign computes one `is_valid` verdict and forks both outputs from it, so the invariant holds automatically and is additionally enforced by a test (see below). Reconciliation: **1,852,628 clean + 1,566 rejected = 1,854,194 validated.**
 
-**Deterministic hash surrogate keys, not `row_number()`.** Generating surrogate keys with `row_number()` inside a view is a referential-integrity time bomb: the moment the row population changes, every key renumbers, and a fact row that pointed at customer key 5 now silently resolves to a *different* customer. No error, no null — just wrong data on a dashboard. Switching to `dbt_utils.generate_surrogate_key()` (a hash of the natural key) makes keys deterministic and stable across runs and materialisations, which kills that failure mode dead.
+**Deterministic hash surrogate keys, not `row_number()`.** Generating surrogate keys with `row_number()` inside a view is a referential-integrity time bomb: the moment the row population changes, every key renumbers, and a fact row that pointed at customer key 5 now silently resolves to a *different* customer. No error, no null, just wrong data on a dashboard. Switching to `dbt_utils.generate_surrogate_key()` (a hash of the natural key) makes keys deterministic and stable across runs and materialisations, which kills that failure mode dead.
 
 **An UNKNOWN sentinel built from a hashed literal.** Missing merchants need a place to land. Since surrogate keys are now hashes rather than integers, the old `-1` sentinel can't be a key directly — so the UNKNOWN member's key is `generate_surrogate_key(['-1'])`, and the fact uses the *identical* expression in its `COALESCE`. Same function, same literal, same hash, so unmatched fact rows land exactly on the UNKNOWN dimension row — and the `relationships` test proves it.
 
@@ -50,18 +50,18 @@ This section is the point of the project — the *why* behind the build.
 
 **Materialisation by purpose.** Staging and the validation model are views (cheap, no storage, recomputed on read). `clean`, `rejected`, and all marts are tables (queried repeatedly and joined against — cheap storage, expensive compute, so materialise). With deterministic keys, dimensions *could* now be views without corrupting FKs, but they stay tables for query performance.
 
-**Two bugs fixed during the port.** The original derived day-of-week from the customer's date of birth rather than the transaction date, and computed customer age against `now()` — making it non-deterministic, changing on every run. The port derives both from `trans_date_trans_time` (age *at transaction time*), which is correct and idempotent.
+**Two bugs fixed during the port.** The original derived day-of-week from the customer's date of birth rather than the transaction date, and computed customer age against `now()`, making it non-deterministic, changing on every run. The port derives both from `trans_date_trans_time` (age *at transaction time*), which is correct and idempotent.
 
 ---
 
 ## Data quality & findings
 
-The raw Sparkov data is clean; ~1,800 dirty rows were deliberately injected against known business rules to exercise the validation layer. Of those, **1,566 (0.08% of 1.85M) were rejected** — and the number is fully reconstructable:
+The raw Sparkov data is clean; ~1,800 dirty rows were deliberately injected against known business rules to exercise the validation layer. Of those, **1,566 (0.08% of 1.85M) were rejected** , and the number is fully reconstructable:
 
 - **Out-of-range amounts** were dropped (rule: `0.01 ≤ amt ≤ 1,000,000`). Injected dirty amounts were random in the 100,000–9,999,999 range, so only those breaching 1,000,000 fail — roughly 44.
 - **Nulls** in required fields (`trans_num`, transaction date, merchant, job) were dropped.
 - **Duplicate `trans_num`** rows were de-duplicated (latest transaction kept).
-- **Dirty categories** (e.g. `invalid`, `n/a`) were *not* dropped — they were standardised to `unknown`. Dirty-but-recoverable values are cleaned; untrustworthy values are rejected.
+- **Dirty categories** (e.g. `invalid`, `n/a`) were *not* dropped , they were standardised to `unknown`. Dirty but recoverable values are cleaned and untrustworthy values are rejected.
 
 Having an *expected* reject magnitude is itself a control: if a future run quarantines 40,000 rows instead of ~1,600, something upstream has changed and the number rings the alarm.
 
@@ -98,38 +98,6 @@ dbt docs serve --port 8081
 ```
 
 A working `dbt debug` confirms the connection before you build.
-
----
-
-## Project structure
-
-```
-fintech_dw/
-├── dbt_project.yml              # schema + materialisation config per layer
-├── packages.yml                 # dbt_utils dependency
-├── seeds/
-│   └── merchants.csv            # merchant master (bronze)
-├── macros/
-│   ├── haversine.sql            # customer↔merchant distance (reused, so a macro)
-│   └── generate_schema_name.sql # schema-naming override
-├── models/
-│   ├── staging/
-│   │   ├── _sources.yml
-│   │   └── stg_sparkov_transactions.sql
-│   ├── intermediate/
-│   │   ├── int_transactions_validated.sql   # one verdict, drops nothing
-│   │   ├── int_transactions_clean.sql       # where is_valid (+ derived cols)
-│   │   └── int_transactions_rejected.sql    # where not is_valid
-│   └── marts/
-│       ├── _marts_models.yml                # tests
-│       ├── dim_customers.sql
-│       ├── dim_merchants.sql                # + UNKNOWN sentinel
-│       ├── dim_locations.sql
-│       ├── dim_date.sql
-│       └── fct_transactions.sql
-└── tests/
-    └── assert_reconciliation.sql            # singular test: clean + rejected = validated
-```
 
 ---
 
