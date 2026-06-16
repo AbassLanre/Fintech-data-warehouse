@@ -2,7 +2,7 @@
 
 A dimensional data warehouse for credit-card fraud analytics, built on the [Sparkov](https://github.com/namebrandon/Sparkov_Data_Generation) simulated transaction dataset (~1.85M transactions). The project takes raw transaction data through a medallion architecture (bronze → silver → gold) and lands a Kimball star schema, with the entire transformation layer modelled, tested, and documented in **dbt**.
 
-This is the dbt port of an earlier hand-written SQL build. The port wasn't a translation exercise, it was an opportunity to fix two latent bugs, replace fragile patterns with better ones, and add a self-enforcing test layer the original never had.
+This is the dbt port of an earlier hand-written SQL build [ETL-Fintech-no-dbt](https://github.com/AbassLanre/ETL-Fintech-no-dbt). The port was an opportunity to fix two latent bugs, replace fragile patterns with better ones, and add a self-enforcing test layer the original never had.
 
 ---
 
