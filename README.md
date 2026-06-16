@@ -97,7 +97,7 @@ dbt docs generate
 dbt docs serve --port 8081
 ```
 
-A working `dbt debug` confirms the connection before you build.
+A working `dbt debug` confirms the right connection
 
 ---
 
@@ -106,4 +106,3 @@ A working `dbt debug` confirms the connection before you build.
 - **Orchestration (v3):** schedule the build with Airflow — DAG, retries, alerting on test failures.
 - **Containerisation (v4):** Docker Compose for Postgres + dbt so the project runs anywhere with one command.
 - **Incremental & history:** convert the fact to an incremental model; add a dbt snapshot for Type-2 history on a slowly-changing dimension.
-- **CI:** run `dbt build` on every pull request against a CI database.
