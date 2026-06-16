@@ -1,0 +1,694 @@
+merchant_id,merchant_name,category,merchant_tier,country,city,commission_rate,is_online,founded_year,is_active
+MERCH00000,fraud_Kirlin and Sons,personal_care,medium,US,Duarteburgh,1.99,FALSE,1997,TRUE
+MERCH00001,fraud_Sporer-Keebler,personal_care,small,UK,Jeremyshire,3.05,FALSE,2008,TRUE
+MERCH00002,"fraud_Swaniawski, Nitzsche and Welch",health_fitness,small,US,North Stephen,3.01,FALSE,1990,TRUE
+MERCH00003,fraud_Haley Group,misc_pos,medium,UK,Stephanieberg,2.09,FALSE,2004,TRUE
+MERCH00004,fraud_Johnston-Casper,travel,enterprise,US,Andersonchester,1.64,FALSE,2012,TRUE
+MERCH00005,fraud_Daugherty LLC,kids_pets,small,US,Janetmouth,3.26,FALSE,1993,TRUE
+MERCH00006,fraud_Romaguera Ltd,health_fitness,small,Canada,Rowemouth,3.1,FALSE,2015,TRUE
+MERCH00007,fraud_Reichel LLC,personal_care,medium,US,South Danielburgh,2.45,FALSE,1992,TRUE
+MERCH00008,"fraud_Goyette, Howell and Collier",shopping_pos,enterprise,UK,Smithton,1.69,FALSE,2008,TRUE
+MERCH00009,fraud_Kilback Group,food_dining,small,UK,Castilloland,3.27,FALSE,1992,TRUE
+MERCH00010,"fraud_Feil, Hilpert and Koss",food_dining,enterprise,US,Simmonsview,1.36,FALSE,2016,TRUE
+MERCH00011,fraud_Gottlieb Group,kids_pets,small,US,New Maria,2.77,FALSE,2019,TRUE
+MERCH00012,fraud_Connelly-Carter,home,small,UK,Burnettview,3.03,FALSE,1997,TRUE
+MERCH00013,fraud_Bechtelar-Rippin,food_dining,small,Australia,Nelsontown,3.14,FALSE,2007,TRUE
+MERCH00014,fraud_Lubowitz-Walter,kids_pets,small,Canada,Johnfurt,2.56,FALSE,2016,TRUE
+MERCH00015,"fraud_Welch, Rath and Koepp",entertainment,small,US,Joseton,2.71,FALSE,2020,TRUE
+MERCH00016,fraud_Hickle Group,shopping_pos,medium,US,North Karastad,2.15,FALSE,2018,TRUE
+MERCH00017,"fraud_Lang, Towne and Schuppe",kids_pets,medium,US,Saraland,1.97,FALSE,2007,TRUE
+MERCH00018,fraud_Morissette LLC,entertainment,medium,US,Reynoldschester,2.21,FALSE,2001,TRUE
+MERCH00019,fraud_Prosacco LLC,personal_care,enterprise,US,South Nicolefurt,1.07,FALSE,1991,TRUE
+MERCH00020,fraud_Corwin-Romaguera,travel,small,US,East Carol,3.18,FALSE,2009,TRUE
+MERCH00022,fraud_Tillman LLC,travel,small,Australia,South Samanthashire,3.03,FALSE,2007,TRUE
+MERCH00023,fraud_Veum-Koelpin,travel,small,UK,North Dana,3.18,FALSE,2007,TRUE
+MERCH00024,"fraud_Watsica, Haag and Considine",shopping_pos,medium,US,Lake Johnview,2.01,FALSE,1995,TRUE
+MERCH00025,fraud_Leannon-Ward,food_dining,enterprise,Germany,West Devin,1.21,FALSE,2006,TRUE
+MERCH00026,"fraud_Hintz, Bauch and Smith",health_fitness,medium,US,Castillobury,2.24,FALSE,2016,TRUE
+MERCH00027,fraud_Labadie LLC,personal_care,medium,US,Lake Jason,2.33,FALSE,2007,FALSE
+MERCH00028,"fraud_Eichmann, Hayes and Treutel",travel,enterprise,France,Holmesburgh,1.48,FALSE,2005,TRUE
+MERCH00029,fraud_Leffler-Goldner,personal_care,enterprise,Germany,Port Michaelside,1.67,FALSE,1999,TRUE
+MERCH00030,fraud_Kautzer and Sons,personal_care,small,US,South Matthew,2.58,FALSE,2013,TRUE
+MERCH00031,fraud_Ernser-Feest,home,small,Canada,Russellfort,3.27,FALSE,1994,TRUE
+MERCH00032,"fraud_Zemlak, Tillman and Cremin",personal_care,enterprise,US,Allisonmouth,1.42,FALSE,2009,TRUE
+MERCH00033,fraud_Nienow PLC,entertainment,small,US,Connerfort,3.23,FALSE,1996,TRUE
+MERCH00034,fraud_Lynch-Wisozk,home,small,UK,West Joshua,2.87,FALSE,2018,TRUE
+MERCH00036,fraud_Schiller Ltd,personal_care,small,US,West Marilyntown,2.84,FALSE,2008,TRUE
+MERCH00037,fraud_Hoppe-Parisian,kids_pets,medium,US,Angelatown,2.3,FALSE,1991,TRUE
+MERCH00039,fraud_Brown-Greenholt,entertainment,enterprise,Germany,Dylanstad,1.06,FALSE,1997,TRUE
+MERCH00040,fraud_Reilly LLC,home,medium,US,Williamchester,2.31,FALSE,2018,TRUE
+MERCH00041,"fraud_Moore, Williamson and Emmerich",home,medium,Canada,Danielsstad,2.37,FALSE,1996,TRUE
+MERCH00042,fraud_Rau-Robel,kids_pets,medium,US,Loriburgh,2.09,FALSE,2017,TRUE
+MERCH00043,"fraud_Fadel, Mertz and Rippin",entertainment,medium,Australia,Calvinmouth,1.87,FALSE,2002,TRUE
+MERCH00044,fraud_Crona and Sons,kids_pets,enterprise,US,Hooperview,1.15,FALSE,2007,TRUE
+MERCH00045,"fraud_Bahringer, Bergnaum and Quitzon",home,medium,US,Port James,1.97,FALSE,2019,TRUE
+MERCH00046,"fraud_Koss, Hansen and Lueilwitz",home,enterprise,Germany,Kylefort,1.08,FALSE,2010,FALSE
+MERCH00047,"fraud_Yost, Schamberger and Windler",kids_pets,enterprise,Australia,Morrismouth,1.74,FALSE,2017,TRUE
+MERCH00048,"fraud_Armstrong, Walter and Gottlieb",food_dining,medium,US,Benjaminstad,2.41,FALSE,2018,TRUE
+MERCH00049,fraud_Friesen Ltd,health_fitness,small,Australia,Cherryview,2.77,FALSE,2015,TRUE
+MERCH00050,fraud_Champlin and Sons,home,small,UK,Ericland,3.23,FALSE,2015,TRUE
+MERCH00051,fraud_Bins-Tillman,entertainment,medium,US,Robinport,2.01,FALSE,2020,TRUE
+MERCH00052,fraud_Douglas-White,entertainment,medium,US,South Linda,2.02,FALSE,1991,TRUE
+MERCH00053,"fraud_Hermiston, Pacocha and Smith",health_fitness,medium,Germany,North Joshuaberg,1.91,FALSE,2020,TRUE
+MERCH00054,"fraud_Denesik, Powlowski and Pouros",home,enterprise,US,Joshuahaven,1.05,FALSE,2017,TRUE
+MERCH00055,fraud_Nader-Maggio,personal_care,small,Germany,Lake Stephanieberg,2.75,FALSE,2009,TRUE
+MERCH00056,"fraud_O'Reilly, Mohr and Purdy",home,small,UK,Alvaradohaven,3.07,FALSE,2000,TRUE
+MERCH00057,fraud_O'Connell-Ullrich,home,small,UK,Port Emilyhaven,2.74,FALSE,2002,TRUE
+MERCH00058,fraud_Bauch-Blanda,entertainment,medium,US,North Patricia,2.45,FALSE,2019,TRUE
+MERCH00059,"fraud_Ruecker, Beer and Collier",shopping_net,medium,Australia,Lisabury,2.5,TRUE,1992,TRUE
+MERCH00060,fraud_Berge-Hills,kids_pets,medium,US,Port Doriston,2.04,FALSE,1992,TRUE
+MERCH00061,fraud_White and Sons,home,small,US,Smithport,3.33,FALSE,2012,TRUE
+MERCH00062,fraud_Adams-Barrows,health_fitness,enterprise,Canada,Port Karen,1.42,FALSE,2011,TRUE
+MERCH00065,fraud_Pouros-Haag,shopping_pos,small,UK,New Chloefurt,3.44,FALSE,1994,TRUE
+MERCH00066,"fraud_Hahn, Bahringer and McLaughlin",personal_care,enterprise,UK,Priceview,1.12,FALSE,1999,TRUE
+MERCH00067,fraud_Ziemann-Waters,health_fitness,medium,US,South Caroline,2.24,FALSE,1998,TRUE
+MERCH00068,"fraud_Wuckert, Wintheiser and Friesen",home,small,France,Meganborough,2.55,FALSE,2010,TRUE
+MERCH00070,fraud_Bednar PLC,kids_pets,small,US,North Julieburgh,3.27,FALSE,2010,FALSE
+MERCH00071,fraud_Kihn Inc,shopping_pos,small,US,Richardfort,3.21,FALSE,2007,TRUE
+MERCH00072,fraud_Fisher Inc,shopping_net,small,Germany,Myersview,3.4,TRUE,2007,TRUE
+MERCH00074,"fraud_Schneider, Hayes and Nikolaus",food_dining,small,US,West Kim,2.93,FALSE,1991,TRUE
+MERCH00075,"fraud_Greenholt, O'Hara and Balistreri",shopping_net,enterprise,Canada,Abigailmouth,1.69,TRUE,2018,TRUE
+MERCH00076,fraud_Gottlieb-Hansen,personal_care,medium,UK,West Yvonne,2.05,FALSE,2007,TRUE
+MERCH00077,"fraud_Douglas, Schneider and Turner",shopping_pos,medium,UK,Georgefort,1.91,FALSE,2019,TRUE
+MERCH00078,"fraud_Gutmann, McLaughlin and Wiza",home,small,Canada,East Lauraberg,2.68,FALSE,2003,TRUE
+MERCH00080,fraud_Weber and Sons,food_dining,medium,US,Hallview,2.45,FALSE,2015,TRUE
+MERCH00082,fraud_Bartoletti and Sons,personal_care,medium,US,Port Monicaborough,1.91,FALSE,2012,TRUE
+MERCH00083,fraud_Powlowski-Weimann,food_dining,enterprise,Germany,West Kristine,1.18,FALSE,2016,TRUE
+MERCH00084,"fraud_Lakin, Ferry and Beatty",food_dining,small,Canada,Port Ruben,3.37,FALSE,1997,TRUE
+MERCH00086,"fraud_Terry, Johns and Bins",misc_pos,small,US,Fosterfurt,3.36,FALSE,2020,TRUE
+MERCH00087,fraud_Thiel-Thiel,entertainment,small,US,Veronicahaven,3.18,FALSE,2016,TRUE
+MERCH00088,fraud_Kuhn Group,food_dining,enterprise,US,Martinfurt,1.78,FALSE,1995,TRUE
+MERCH00089,"fraud_Schaefer, Fay and Hilll",entertainment,enterprise,US,Tammyport,1.48,FALSE,2001,TRUE
+MERCH00090,"fraud_Roberts, Ryan and Smith",personal_care,small,UK,Lake Derrickmouth,3.01,FALSE,2002,TRUE
+MERCH00091,fraud_Stiedemann Ltd,food_dining,small,US,Noblefort,2.94,FALSE,2006,TRUE
+MERCH00092,fraud_Pacocha-Weissnat,kids_pets,medium,UK,Chasefort,2.32,FALSE,2011,TRUE
+MERCH00093,fraud_Homenick LLC,personal_care,medium,France,East Dawnstad,2.44,FALSE,2009,TRUE
+MERCH00094,fraud_Cartwright PLC,kids_pets,enterprise,UK,West Patriciaton,1.24,FALSE,1999,TRUE
+MERCH00096,fraud_Kihn-Fritsch,food_dining,small,UK,Patriciaville,3.05,FALSE,1996,TRUE
+MERCH00097,fraud_Lynch Ltd,shopping_pos,enterprise,UK,Oneillborough,1.72,FALSE,2009,TRUE
+MERCH00098,fraud_Klein Group,entertainment,medium,Canada,New Jamesberg,2.01,FALSE,1996,TRUE
+MERCH00099,fraud_Quitzon-Goyette,home,medium,UK,Jonesside,2.13,FALSE,2004,TRUE
+MERCH00100,fraud_Greenholt Ltd,health_fitness,medium,Canada,Brentport,2.47,FALSE,2013,TRUE
+MERCH00101,fraud_Bahringer Group,health_fitness,small,US,North Johnland,3.13,FALSE,2000,TRUE
+MERCH00102,fraud_Hilpert-Conroy,kids_pets,enterprise,US,West Sherry,1.25,FALSE,2015,TRUE
+MERCH00104,"fraud_Witting, Beer and Ernser",home,small,US,Lake Jessica,2.98,FALSE,2017,TRUE
+MERCH00105,fraud_Breitenberg-Hermiston,kids_pets,medium,Germany,West Casey,2.2,FALSE,2012,TRUE
+MERCH00106,fraud_Friesen Inc,shopping_pos,medium,US,West Amanda,2.26,FALSE,1990,TRUE
+MERCH00108,"fraud_Baumbach, Strosin and Nicolas",shopping_pos,enterprise,Germany,Port Nathan,1.62,FALSE,1997,TRUE
+MERCH00109,fraud_Rippin-VonRueden,health_fitness,enterprise,US,Leonmouth,1.04,FALSE,1997,TRUE
+MERCH00110,"fraud_Nienow, Ankunding and Collier",misc_pos,small,US,Christopherland,2.96,FALSE,2006,FALSE
+MERCH00111,fraud_Schmidt and Sons,shopping_net,medium,Australia,Loriland,2.42,TRUE,2009,TRUE
+MERCH00112,"fraud_Prosacco, Kreiger and Kovacek",home,enterprise,US,Port Melissa,1.73,FALSE,2004,TRUE
+MERCH00113,fraud_Schumm PLC,health_fitness,medium,US,West Thomasport,1.98,FALSE,1997,TRUE
+MERCH00114,fraud_Berge-Ullrich,home,small,Canada,Boydtown,2.98,FALSE,1997,TRUE
+MERCH00115,"fraud_Roob, Conn and Tremblay",shopping_pos,small,US,West Tammy,2.77,FALSE,2000,TRUE
+MERCH00116,fraud_Kihn-Schuster,food_dining,small,US,Lake Adrianaburgh,2.88,FALSE,1994,TRUE
+MERCH00118,fraud_Monahan-Morar,personal_care,small,US,Scottbury,3.04,FALSE,2003,TRUE
+MERCH00120,fraud_Botsford Ltd,shopping_pos,enterprise,US,Garyport,1.62,FALSE,2020,TRUE
+MERCH00121,fraud_Hamill-D'Amore,health_fitness,enterprise,Canada,Claytonmouth,1.3,FALSE,1990,TRUE
+MERCH00122,"fraud_Bradtke, Torp and Bahringer",personal_care,small,US,New Mark,3.39,FALSE,2016,TRUE
+MERCH00124,fraud_Gaylord-Powlowski,home,medium,US,Lake Cathyville,2.22,FALSE,1997,TRUE
+MERCH00125,fraud_Mayert Group,shopping_pos,small,US,East Stacey,2.89,FALSE,2011,TRUE
+MERCH00127,fraud_Beier and Sons,home,medium,US,Hufffort,2.13,FALSE,1994,FALSE
+MERCH00128,fraud_Abbott-Steuber,personal_care,medium,France,Lake Evanborough,2.21,FALSE,2011,TRUE
+MERCH00130,fraud_Ernser-Lynch,food_dining,medium,US,Diazbury,2.12,FALSE,1991,TRUE
+MERCH00132,fraud_Little Ltd,kids_pets,small,US,New Eddie,2.84,FALSE,2018,TRUE
+MERCH00133,fraud_Gislason Group,travel,medium,Canada,Christinachester,1.98,FALSE,1992,TRUE
+MERCH00134,fraud_Stark-Koss,home,medium,US,West Jeremy,2.47,FALSE,1997,TRUE
+MERCH00135,"fraud_Crist, Jakubowski and Littel",home,medium,UK,Randyfort,2.33,FALSE,2020,TRUE
+MERCH00136,fraud_Kling-Ernser,entertainment,enterprise,UK,Grantbury,1.19,FALSE,2005,TRUE
+MERCH00138,"fraud_Cronin, Kshlerin and Weber",health_fitness,medium,US,West Vernon,2.29,FALSE,2014,TRUE
+MERCH00139,fraud_Upton PLC,entertainment,medium,Australia,New Samanthamouth,2.3,FALSE,2014,TRUE
+MERCH00141,fraud_Carroll PLC,health_fitness,enterprise,US,Michaelmouth,1.02,FALSE,1999,TRUE
+MERCH00142,fraud_Effertz LLC,entertainment,enterprise,US,Wardshire,1.75,FALSE,1996,TRUE
+MERCH00143,fraud_Windler LLC,kids_pets,medium,UK,Juliemouth,1.87,FALSE,2014,TRUE
+MERCH00144,fraud_Satterfield-Lowe,travel,medium,Canada,Raystad,2.36,FALSE,2008,TRUE
+MERCH00145,fraud_Schuppe-Schuppe,food_dining,small,US,Martinland,2.87,FALSE,2006,TRUE
+MERCH00147,fraud_Nader-Heller,misc_net,small,US,West Jonathon,2.99,TRUE,2003,FALSE
+MERCH00148,fraud_Auer-West,shopping_net,medium,Canada,West Brandy,2.3,TRUE,2003,TRUE
+MERCH00149,"fraud_Lesch, D'Amore and Brown",food_dining,medium,UK,Lake Brandifurt,2.23,FALSE,2019,TRUE
+MERCH00150,fraud_Barrows PLC,shopping_pos,medium,US,Walkerland,2.31,FALSE,1998,TRUE
+MERCH00151,"fraud_O'Connell, Botsford and Hand",home,small,France,West Deanna,2.78,FALSE,2004,TRUE
+MERCH00153,fraud_Bode-Schuster,kids_pets,medium,UK,North Donald,2.07,FALSE,1990,TRUE
+MERCH00154,fraud_O'Keefe-Wisoky,food_dining,small,US,Eriktown,2.85,FALSE,1998,TRUE
+MERCH00156,fraud_Conroy-Emard,food_dining,enterprise,UK,Stephenburgh,1.22,FALSE,1990,TRUE
+MERCH00157,fraud_Kutch-Ferry,home,small,US,New Albertstad,2.91,FALSE,2007,TRUE
+MERCH00158,fraud_Donnelly LLC,entertainment,medium,UK,Burkeburgh,2.14,FALSE,2015,TRUE
+MERCH00160,fraud_Weimann-Lockman,kids_pets,small,US,Port Bryan,2.74,FALSE,2011,TRUE
+MERCH00161,fraud_Runte-Mohr,food_dining,medium,US,Valdezborough,2.1,FALSE,2013,TRUE
+MERCH00162,"fraud_Dare, Fritsch and Zboncak",health_fitness,small,US,Robinsonville,2.81,FALSE,1997,TRUE
+MERCH00163,"fraud_Kihn, Brakus and Goyette",personal_care,small,US,Douglasstad,3.04,FALSE,2014,TRUE
+MERCH00164,fraud_Medhurst PLC,shopping_net,small,UK,Monicaport,2.78,TRUE,2008,FALSE
+MERCH00165,fraud_Waelchi Inc,kids_pets,medium,US,North Toddborough,1.87,FALSE,1996,TRUE
+MERCH00169,fraud_Dickinson Ltd,personal_care,small,US,Port Victoriaborough,3.21,FALSE,1994,TRUE
+MERCH00170,"fraud_Little, Gutmann and Lynch",shopping_net,enterprise,US,West William,1.56,TRUE,1994,TRUE
+MERCH00171,fraud_Schaefer Ltd,kids_pets,medium,US,Barkerfurt,1.81,FALSE,1999,TRUE
+MERCH00172,fraud_Ankunding LLC,shopping_net,medium,US,Stephanieberg,1.84,TRUE,2020,TRUE
+MERCH00173,fraud_Schoen-Quigley,kids_pets,small,US,Port Patriciashire,2.99,FALSE,2008,TRUE
+MERCH00175,fraud_Towne LLC,misc_pos,small,US,Lake Adamhaven,3.06,FALSE,1999,TRUE
+MERCH00179,"fraud_Hills, Hegmann and Schaefer",health_fitness,small,US,Paulport,2.92,FALSE,2009,TRUE
+MERCH00180,"fraud_Durgan, Gislason and Spencer",home,small,US,West Nicholasville,2.95,FALSE,2004,TRUE
+MERCH00181,"fraud_Hauck, Dietrich and Funk",kids_pets,medium,US,Danielburgh,2.2,FALSE,1991,TRUE
+MERCH00182,"fraud_Lubowitz, Terry and Stracke",personal_care,medium,France,South Stephanieburgh,1.95,FALSE,1996,TRUE
+MERCH00183,fraud_Erdman-Ebert,personal_care,small,US,Jenniferfort,3.05,FALSE,1995,TRUE
+MERCH00184,fraud_Kub PLC,personal_care,medium,US,Lake Christopherville,2,FALSE,1997,TRUE
+MERCH00185,"fraud_Lehner, Reichert and Mills",misc_pos,small,Germany,Briggsland,2.57,FALSE,1997,TRUE
+MERCH00186,"fraud_Schiller, Blanda and Johnson",home,medium,UK,Salazarton,2.26,FALSE,2019,TRUE
+MERCH00187,fraud_Bins-Howell,personal_care,small,US,Burnettbury,2.65,FALSE,1998,TRUE
+MERCH00189,"fraud_Turcotte, Batz and Buckridge",health_fitness,small,US,Caitlinview,2.81,FALSE,2013,TRUE
+MERCH00190,fraud_Will Ltd,food_dining,enterprise,US,South Lisahaven,1.37,FALSE,1999,TRUE
+MERCH00191,fraud_Gibson-Deckow,entertainment,enterprise,US,Frankmouth,1.4,FALSE,1992,TRUE
+MERCH00193,fraud_Treutel-King,travel,enterprise,UK,South Matthewshire,1.48,FALSE,1990,TRUE
+MERCH00196,fraud_Schmidt-Larkin,home,enterprise,Canada,Lake Lindsey,1.46,FALSE,2020,TRUE
+MERCH00197,"fraud_Windler, Goodwin and Kovacek",home,medium,Canada,North Courtney,2.2,FALSE,2014,TRUE
+MERCH00198,fraud_Medhurst Inc,home,medium,UK,Danielhaven,2.44,FALSE,1995,FALSE
+MERCH00199,fraud_Breitenberg LLC,travel,medium,Canada,East Jenny,2.48,FALSE,2005,TRUE
+MERCH00200,fraud_Terry Ltd,home,small,UK,Carrollview,3.36,FALSE,2000,TRUE
+MERCH00201,"fraud_Runte, Green and Emard",health_fitness,medium,UK,Josephview,2.08,FALSE,2014,TRUE
+MERCH00202,fraud_Feil-Morar,health_fitness,medium,US,Jasminefurt,2.03,FALSE,2014,TRUE
+MERCH00203,fraud_Kilback and Sons,entertainment,medium,Australia,Lake Ianbury,2.26,FALSE,2007,TRUE
+MERCH00205,"fraud_Conroy, Balistreri and Gorczany",health_fitness,small,US,Alisonmouth,3.12,FALSE,2005,TRUE
+MERCH00206,fraud_Schuppe LLC,entertainment,medium,US,Debramouth,2.18,FALSE,2019,TRUE
+MERCH00207,fraud_Renner Ltd,home,enterprise,US,Tanyaland,1.02,FALSE,2010,TRUE
+MERCH00209,"fraud_Romaguera, Wehner and Tromp",kids_pets,small,US,North Mary,3.05,FALSE,2007,TRUE
+MERCH00210,fraud_McKenzie-Huels,food_dining,small,Canada,Port Brandonchester,2.61,FALSE,2020,TRUE
+MERCH00213,fraud_Dare-Marvin,entertainment,enterprise,US,Wademouth,1.57,FALSE,2006,TRUE
+MERCH00214,fraud_Gleason and Sons,kids_pets,medium,US,West Johnchester,2.13,FALSE,2004,TRUE
+MERCH00217,"fraud_Cole, Hills and Jewess",home,small,France,Weberborough,3.01,FALSE,2018,TRUE
+MERCH00220,fraud_Roob-Okuneva,health_fitness,small,Canada,Scottstad,3.35,FALSE,2000,TRUE
+MERCH00221,fraud_Padberg-Sauer,home,medium,Canada,East Phillip,2,FALSE,1999,TRUE
+MERCH00222,fraud_Gerhold LLC,home,medium,UK,South Melissastad,2.41,FALSE,2004,TRUE
+MERCH00223,fraud_Botsford and Sons,home,small,US,Greenberg,3.04,FALSE,2004,TRUE
+MERCH00224,fraud_Volkman-Predovic,shopping_net,enterprise,Australia,North Nicole,1.19,TRUE,2002,TRUE
+MERCH00225,fraud_Dare-Gibson,health_fitness,medium,US,Phillipside,2.32,FALSE,2012,TRUE
+MERCH00226,fraud_Rempel Inc,shopping_net,small,Australia,Danfort,3.29,TRUE,2010,FALSE
+MERCH00231,fraud_Torphy-Kertzmann,health_fitness,medium,US,South Erikaville,2.15,FALSE,2008,TRUE
+MERCH00232,"fraud_Runolfsdottir, Mueller and Hand",entertainment,small,Canada,Port Bethanybury,2.6,FALSE,2019,TRUE
+MERCH00233,"fraud_Torp, Muller and Borer",health_fitness,medium,US,Williamshire,2.26,FALSE,1994,TRUE
+MERCH00234,fraud_Abshire PLC,entertainment,medium,US,North Charles,2.24,FALSE,2002,TRUE
+MERCH00237,fraud_Spencer-Runolfsson,misc_pos,enterprise,Germany,East Tiffanymouth,1.69,FALSE,2002,FALSE
+MERCH00238,fraud_Streich Ltd,home,medium,Germany,Guzmanside,2.14,FALSE,2007,TRUE
+MERCH00240,fraud_Bernier and Sons,kids_pets,small,UK,North Gabriella,3.42,FALSE,1997,TRUE
+MERCH00241,"fraud_Dare, Casper and Bartoletti",kids_pets,medium,US,Port Brenda,2.24,FALSE,2017,TRUE
+MERCH00242,fraud_Zboncak LLC,food_dining,small,US,South Willieton,2.53,FALSE,2000,TRUE
+MERCH00243,fraud_Erdman-Durgan,health_fitness,small,US,East Debra,2.65,FALSE,2006,TRUE
+MERCH00244,fraud_Thiel Ltd,travel,medium,US,Hannahfort,1.92,FALSE,2009,TRUE
+MERCH00245,fraud_Heathcote LLC,shopping_net,medium,US,Cooperland,2.44,TRUE,1994,TRUE
+MERCH00246,fraud_Eichmann-Kilback,home,medium,US,West Kristinaland,2.27,FALSE,2018,TRUE
+MERCH00251,"fraud_Hoppe, Harris and Bednar",entertainment,enterprise,UK,Port Cynthia,1.13,FALSE,2004,TRUE
+MERCH00252,fraud_Hammes-Beatty,kids_pets,enterprise,US,North Emilyville,1.77,FALSE,2012,TRUE
+MERCH00253,fraud_Jacobi and Sons,shopping_pos,enterprise,US,Hollyport,1.31,FALSE,2005,TRUE
+MERCH00254,fraud_Jast and Sons,food_dining,small,US,Patriciabury,2.8,FALSE,2012,TRUE
+MERCH00255,"fraud_Streich, Rolfson and Wilderman",kids_pets,enterprise,UK,Josephmouth,1.22,FALSE,2008,TRUE
+MERCH00257,fraud_Zboncak Ltd,food_dining,medium,Australia,Thomasfurt,2.44,FALSE,2013,TRUE
+MERCH00258,fraud_Lemke and Sons,travel,enterprise,US,East Terri,1.64,FALSE,2009,TRUE
+MERCH00259,fraud_Kulas Group,health_fitness,small,US,Michaelberg,2.75,FALSE,2014,TRUE
+MERCH00260,fraud_Goldner-Lemke,entertainment,medium,Canada,Lake Abigailville,2.24,FALSE,2018,TRUE
+MERCH00261,fraud_Predovic Inc,shopping_net,small,Canada,Matthewview,2.53,TRUE,2001,TRUE
+MERCH00262,fraud_Howe Ltd,misc_pos,small,US,Johnhaven,3.25,FALSE,1995,TRUE
+MERCH00263,fraud_Stoltenberg-Beatty,shopping_pos,medium,Germany,Garciafort,2.06,FALSE,2006,TRUE
+MERCH00265,fraud_Bruen-Yost,misc_pos,enterprise,US,Thomasmouth,1.66,FALSE,2005,FALSE
+MERCH00268,"fraud_Reichel, Bradtke and Blanda",travel,small,Germany,Martinezfort,3.3,FALSE,2004,FALSE
+MERCH00271,fraud_Morissette PLC,shopping_pos,small,Australia,Matthewland,3.36,FALSE,2013,TRUE
+MERCH00272,"fraud_Reichert, Huels and Hoppe",shopping_net,small,Canada,Margaretberg,3.06,TRUE,1992,TRUE
+MERCH00275,fraud_Hills-Witting,shopping_net,small,US,Lake Melissa,2.95,TRUE,2011,TRUE
+MERCH00278,fraud_Shanahan-Lehner,personal_care,small,US,Johnsonberg,3.14,FALSE,2001,TRUE
+MERCH00281,fraud_Bogisich-Weimann,kids_pets,small,US,Lake Ericaborough,3.38,FALSE,2007,TRUE
+MERCH00283,"fraud_Douglas, DuBuque and McKenzie",travel,medium,UK,West Timothyfurt,2.24,FALSE,2004,TRUE
+MERCH00284,fraud_Daugherty-Thompson,food_dining,small,US,South Sethtown,2.64,FALSE,2020,TRUE
+MERCH00285,fraud_Goyette-Herzog,travel,enterprise,US,Lake Andrew,1.19,FALSE,2007,TRUE
+MERCH00286,fraud_Keeling-Crist,misc_pos,medium,UK,Onealland,2.32,FALSE,2020,TRUE
+MERCH00287,"fraud_Walter, Hettinger and Kessler",personal_care,medium,UK,New Mirandahaven,2.42,FALSE,2010,TRUE
+MERCH00288,fraud_Kozey-McDermott,travel,medium,US,Lake Lauren,2.47,FALSE,1991,TRUE
+MERCH00292,"fraud_McDermott, Osinski and Morar",home,small,US,Jonathanberg,2.74,FALSE,2001,TRUE
+MERCH00293,"fraud_Kilback, Nitzsche and Leffler",travel,medium,US,North Andreaberg,2.48,FALSE,2001,TRUE
+MERCH00294,fraud_Vandervort-Funk,grocery_pos,small,Australia,North Jeffreyton,3.45,FALSE,2016,TRUE
+MERCH00298,fraud_Hills-Boyer,personal_care,medium,UK,Bradleyhaven,2.22,FALSE,1990,TRUE
+MERCH00299,fraud_Jast Ltd,shopping_net,small,Australia,South Aliciaport,3.29,TRUE,1996,TRUE
+MERCH00300,fraud_Grimes LLC,entertainment,medium,US,Lake Nicholasborough,1.95,FALSE,2017,TRUE
+MERCH00306,fraud_Gulgowski LLC,home,medium,Canada,Rushmouth,2.22,FALSE,1998,TRUE
+MERCH00307,fraud_Mohr-Bayer,shopping_net,small,US,Erinhaven,2.75,TRUE,1995,TRUE
+MERCH00310,"fraud_Bahringer, Osinski and Block",food_dining,enterprise,US,Colemanshire,1.29,FALSE,2015,TRUE
+MERCH00312,fraud_Simonis-Prohaska,misc_pos,small,US,New Kimberlystad,2.55,FALSE,2013,TRUE
+MERCH00317,"fraud_Kunze, Larkin and Mayert",travel,small,US,South Kimberly,2.95,FALSE,2001,TRUE
+MERCH00318,"fraud_Becker, Harris and Harvey",personal_care,small,US,Carrilloport,3.45,FALSE,1991,TRUE
+MERCH00320,fraud_Kutch-Wilderman,home,enterprise,UK,Martinezmouth,1.24,FALSE,2010,FALSE
+MERCH00321,"fraud_Lehner, Mosciski and King",misc_net,small,US,Watsonview,2.9,TRUE,2011,TRUE
+MERCH00322,fraud_Heaney-Marquardt,entertainment,medium,US,Lauraville,2.43,FALSE,2000,TRUE
+MERCH00326,"fraud_McCullough, Hudson and Schuster",food_dining,small,US,Lake Kevin,3.13,FALSE,2007,TRUE
+MERCH00328,fraud_Kilback LLC,food_dining,small,US,Patriciastad,2.79,FALSE,2006,TRUE
+MERCH00329,fraud_Kub-Heaney,health_fitness,small,UK,West Dawn,3.35,FALSE,2010,TRUE
+MERCH00331,"fraud_Schumm, McLaughlin and Carter",food_dining,medium,Germany,Buchananside,2.1,FALSE,2018,TRUE
+MERCH00333,fraud_Heller PLC,health_fitness,small,US,Wilsonborough,2.92,FALSE,1993,TRUE
+MERCH00334,"fraud_Hahn, Douglas and Schowalter",travel,small,US,West Ashleystad,3.45,FALSE,2011,TRUE
+MERCH00336,fraud_Kertzmann LLC,health_fitness,small,Canada,North Geneborough,2.59,FALSE,1993,TRUE
+MERCH00338,"fraud_Mueller, Gerhold and Mueller",health_fitness,small,US,Davidshire,2.56,FALSE,2020,TRUE
+MERCH00339,"fraud_Reinger, Weissnat and Strosin",food_dining,small,US,North Billy,2.85,FALSE,2011,TRUE
+MERCH00342,fraud_Connelly PLC,food_dining,medium,France,Joannaburgh,1.84,FALSE,1999,TRUE
+MERCH00344,fraud_Conroy Ltd,shopping_pos,small,US,South Johnland,2.71,FALSE,2011,TRUE
+MERCH00347,"fraud_Willms, Kris and Bergnaum",shopping_pos,enterprise,US,Calebberg,1.45,FALSE,1993,TRUE
+MERCH00349,"fraud_Pouros, Walker and Spencer",kids_pets,medium,Canada,South Samantha,2.39,FALSE,2014,TRUE
+MERCH00350,"fraud_Roberts, Daniel and Macejkovic",kids_pets,medium,UK,Lake Erik,1.82,FALSE,2019,TRUE
+MERCH00352,"fraud_Heathcote, Yost and Kertzmann",shopping_net,medium,US,West Evelynview,1.99,TRUE,2014,TRUE
+MERCH00354,fraud_Larkin Ltd,kids_pets,small,US,Port Robert,3.37,FALSE,2008,TRUE
+MERCH00355,fraud_Metz-Boehm,shopping_pos,small,UK,Coxmouth,3.47,FALSE,1992,TRUE
+MERCH00358,fraud_Parker-Kunde,personal_care,small,US,Gutierrezville,2.84,FALSE,2001,TRUE
+MERCH00360,fraud_Yost-Rogahn,personal_care,small,France,Gavinside,3.1,FALSE,2018,TRUE
+MERCH00361,fraud_Crooks and Sons,personal_care,small,UK,Lake Sherry,3.17,FALSE,1998,TRUE
+MERCH00366,"fraud_Nienow, Barrows and Romaguera",personal_care,medium,UK,Lake Amystad,2.09,FALSE,1996,TRUE
+MERCH00369,fraud_Gleason-Macejkovic,shopping_net,small,US,New Timothyborough,2.78,TRUE,2011,TRUE
+MERCH00370,fraud_Altenwerth-Kilback,home,medium,US,Port Alanstad,1.95,FALSE,2009,TRUE
+MERCH00372,fraud_Kuphal-Toy,food_dining,small,France,Port Peterberg,3.27,FALSE,2014,TRUE
+MERCH00373,fraud_Schulist Ltd,food_dining,small,US,West Christopherside,3.25,FALSE,1995,TRUE
+MERCH00377,fraud_Welch Inc,misc_net,medium,US,Port Tiffany,2.19,TRUE,2011,TRUE
+MERCH00380,fraud_Kassulke PLC,shopping_net,small,Germany,Samuelview,2.54,TRUE,1990,TRUE
+MERCH00382,fraud_Rau-Grant,kids_pets,small,US,Port Jordanborough,2.93,FALSE,2002,TRUE
+MERCH00383,fraud_Macejkovic-Lesch,shopping_pos,medium,US,Lake Dakotamouth,1.81,FALSE,2000,TRUE
+MERCH00384,"fraud_Graham, Hegmann and Hammes",food_dining,enterprise,US,West Randallborough,1.55,FALSE,2001,TRUE
+MERCH00388,fraud_Waters-Cruickshank,health_fitness,enterprise,US,Hartfurt,1.47,FALSE,2006,TRUE
+MERCH00392,fraud_Lesch Ltd,shopping_pos,enterprise,UK,Adamburgh,1.18,FALSE,2014,TRUE
+MERCH00403,fraud_Kozey-Boehm,shopping_net,medium,US,Michellemouth,2.16,TRUE,2018,TRUE
+MERCH00404,fraud_Bode-Rempel,kids_pets,small,Australia,Lisahaven,3.15,FALSE,1994,TRUE
+MERCH00405,"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,small,US,Butlermouth,3.1,TRUE,2014,TRUE
+MERCH00408,fraud_Howe PLC,entertainment,small,Australia,New Zachary,3.13,FALSE,2004,TRUE
+MERCH00410,fraud_Volkman PLC,food_dining,medium,US,Lake Carolineshire,2.45,FALSE,2008,TRUE
+MERCH00411,"fraud_Quitzon, Green and Bashirian",shopping_pos,enterprise,US,North Kimberly,1.78,FALSE,2000,TRUE
+MERCH00412,fraud_Shields-Wunsch,health_fitness,small,US,Lake Jeremiahburgh,2.8,FALSE,1998,TRUE
+MERCH00413,fraud_Williamson LLC,misc_pos,small,US,New Samantha,2.96,FALSE,1991,TRUE
+MERCH00414,fraud_Fadel Inc,health_fitness,enterprise,US,Gibsonfort,1.69,FALSE,2017,TRUE
+MERCH00417,fraud_Pacocha-Bauch,shopping_pos,medium,US,Davisport,2.21,FALSE,2020,TRUE
+MERCH00418,fraud_Fisher-Schowalter,shopping_net,enterprise,US,Bowmanchester,1.65,TRUE,2010,TRUE
+MERCH00419,fraud_Johns Inc,entertainment,medium,US,Alvarezburgh,2.47,FALSE,2004,TRUE
+MERCH00424,fraud_Nolan-Williamson,kids_pets,enterprise,US,East Linda,1.57,FALSE,2006,TRUE
+MERCH00426,fraud_Maggio-Fahey,misc_pos,small,UK,North Courtney,3.49,FALSE,2006,TRUE
+MERCH00429,fraud_Denesik and Sons,shopping_pos,small,US,Lake Nicole,2.78,FALSE,2003,TRUE
+MERCH00430,fraud_Jast-McDermott,shopping_pos,medium,US,Bergerhaven,2.24,FALSE,2000,TRUE
+MERCH00431,fraud_Price Inc,shopping_net,small,UK,Port Jane,2.78,TRUE,2013,TRUE
+MERCH00435,fraud_Schoen Ltd,kids_pets,enterprise,UK,Codymouth,1.12,FALSE,1992,TRUE
+MERCH00438,fraud_Fahey Inc,kids_pets,small,US,Sandrabury,3.47,FALSE,2012,TRUE
+MERCH00439,fraud_Stiedemann Inc,misc_pos,small,UK,Shanestad,2.58,FALSE,2007,TRUE
+MERCH00443,fraud_Mohr Inc,shopping_pos,medium,Canada,North Brian,2.27,FALSE,2016,TRUE
+MERCH00448,fraud_Wisozk and Sons,misc_pos,enterprise,France,Port Walterberg,1.07,FALSE,2011,TRUE
+MERCH00457,fraud_Rolfson-Kunde,personal_care,small,US,Shawnmouth,2.68,FALSE,1996,TRUE
+MERCH00460,fraud_Wuckert-Goldner,home,medium,US,West Robertville,2.5,FALSE,1994,TRUE
+MERCH00461,fraud_Pouros-Conroy,shopping_pos,enterprise,US,Davidport,1.62,FALSE,2016,TRUE
+MERCH00463,fraud_Kuhn LLC,shopping_pos,medium,UK,Lake Jessica,2.41,FALSE,2009,TRUE
+MERCH00466,fraud_Skiles LLC,home,small,US,Jonesfort,3.33,FALSE,2014,TRUE
+MERCH00469,fraud_Boyer PLC,misc_pos,enterprise,UK,Johnsonbury,1.03,FALSE,2001,TRUE
+MERCH00475,fraud_Reilly and Sons,health_fitness,small,US,Danielleborough,2.78,FALSE,2013,TRUE
+MERCH00476,fraud_Ratke and Sons,health_fitness,small,US,Charlesshire,3.47,FALSE,2015,TRUE
+MERCH00478,fraud_Emmerich-Rau,personal_care,enterprise,US,Marshallmouth,1.76,FALSE,2004,TRUE
+MERCH00479,fraud_Marvin-Lind,personal_care,small,US,New Cheyenneland,3.03,FALSE,2020,TRUE
+MERCH00480,fraud_Wiza LLC,misc_pos,small,UK,Ninashire,3.37,FALSE,1991,TRUE
+MERCH00482,fraud_Torp-Lemke,misc_pos,enterprise,US,West Nancyland,1.08,FALSE,2017,TRUE
+MERCH00485,"fraud_Effertz, Welch and Schowalter",entertainment,small,US,Lake Sherry,2.66,FALSE,2004,TRUE
+MERCH00486,fraud_Jerde-Hermann,travel,small,US,Stokesborough,3.45,FALSE,1997,TRUE
+MERCH00487,fraud_Kassulke Inc,entertainment,enterprise,France,Angelicafurt,1.33,FALSE,2002,TRUE
+MERCH00491,fraud_Ankunding-Carroll,travel,small,Australia,Alvarezmouth,2.87,FALSE,1990,TRUE
+MERCH00493,fraud_Waelchi-Wolf,kids_pets,small,UK,New Joseph,2.84,FALSE,1994,TRUE
+MERCH00501,fraud_Pagac LLC,shopping_pos,small,Canada,South Jonathanside,3.2,FALSE,1994,TRUE
+MERCH00508,fraud_Cormier LLC,health_fitness,medium,UK,North Anthony,2.43,FALSE,1990,TRUE
+MERCH00509,"fraud_Larkin, Stracke and Greenfelder",entertainment,enterprise,US,Michelleville,1.58,FALSE,2006,TRUE
+MERCH00514,fraud_Ebert-Daugherty,travel,medium,US,Oliverchester,1.89,FALSE,1997,TRUE
+MERCH00515,"fraud_Rohan, White and Aufderhar",misc_net,medium,US,West Christinaport,1.88,TRUE,2018,TRUE
+MERCH00516,fraud_Schmeler-Howe,personal_care,medium,UK,Danielport,2.2,FALSE,2012,TRUE
+MERCH00517,fraud_Osinski Inc,personal_care,medium,UK,Port Brittanyport,1.97,FALSE,2003,TRUE
+MERCH00518,"fraud_Bernhard, Grant and Langworth",shopping_pos,medium,US,Port Gabriel,2.05,FALSE,2020,TRUE
+MERCH00522,"fraud_Hagenes, Kohler and Hoppe",food_dining,medium,Australia,Joneshaven,2.19,FALSE,2002,TRUE
+MERCH00528,"fraud_Klocko, Runolfsdottir and Breitenberg",health_fitness,small,US,Bradleyshire,2.87,FALSE,2013,TRUE
+MERCH00529,"fraud_Larson, Quitzon and Spencer",travel,medium,US,Port Timothy,2.31,FALSE,2010,TRUE
+MERCH00530,"fraud_Weber, Thiel and Hammes",kids_pets,medium,Canada,Hickschester,1.89,FALSE,2001,TRUE
+MERCH00533,fraud_Christiansen-Gusikowski,misc_pos,enterprise,US,Lake Rodney,1.62,FALSE,2004,FALSE
+MERCH00537,fraud_Morissette-Schaefer,personal_care,medium,US,New Miguelshire,1.89,FALSE,2012,TRUE
+MERCH00541,fraud_Watsica LLC,personal_care,medium,US,North Dianahaven,1.83,FALSE,1996,TRUE
+MERCH00545,fraud_Jakubowski Group,food_dining,small,US,Lake Dominichaven,2.9,FALSE,2016,TRUE
+MERCH00547,fraud_Herzog Ltd,misc_pos,small,Canada,Stricklandfort,2.69,FALSE,2001,TRUE
+MERCH00548,fraud_Hackett Group,travel,small,UK,Nguyenport,2.77,FALSE,2015,TRUE
+MERCH00549,fraud_Reichel Inc,entertainment,enterprise,UK,Lake Amymouth,1.72,FALSE,2002,TRUE
+MERCH00554,fraud_Abernathy and Sons,food_dining,small,UK,Lake Johnchester,2.87,FALSE,2015,TRUE
+MERCH00556,fraud_Stark-Batz,entertainment,enterprise,UK,Yatestown,1.06,FALSE,2009,FALSE
+MERCH00559,"fraud_Konopelski, Schneider and Hartmann",food_dining,small,US,New Jamie,2.6,FALSE,2000,TRUE
+MERCH00564,"fraud_Ledner, Hartmann and Feest",health_fitness,small,UK,Samuelmouth,2.93,FALSE,2012,TRUE
+MERCH00566,fraud_Champlin-Casper,home,medium,UK,Mullinston,2.44,FALSE,2009,FALSE
+MERCH00567,fraud_Goyette-Gerhold,kids_pets,small,Australia,East Micheal,3.45,FALSE,1992,TRUE
+MERCH00568,"fraud_Kihn, Abernathy and Douglas",shopping_net,medium,US,New Moniquestad,2.32,TRUE,1995,FALSE
+MERCH00569,"fraud_Stanton, Jakubowski and Baumbach",shopping_net,small,UK,West Tyronehaven,3.28,TRUE,1991,TRUE
+MERCH00574,fraud_Terry-Huel,shopping_net,small,UK,Suemouth,2.86,TRUE,2020,TRUE
+MERCH00577,fraud_Cummerata-Hilpert,entertainment,medium,UK,New Susan,2.46,FALSE,2001,TRUE
+MERCH00580,fraud_Turner and Sons,shopping_pos,small,US,Lake Carol,2.87,FALSE,2000,TRUE
+MERCH00582,"fraud_Bahringer, Schoen and Corkery",shopping_pos,small,US,Jefferyland,3.24,FALSE,2005,TRUE
+MERCH00591,"fraud_Hettinger, McCullough and Fay",home,enterprise,US,West Shelly,1.62,FALSE,2012,TRUE
+MERCH00601,"fraud_Hayes, Marquardt and Dibbert",misc_net,enterprise,US,Wilsonstad,1.73,TRUE,2005,TRUE
+MERCH00604,fraud_Zulauf LLC,personal_care,small,US,Lake Brandyberg,2.67,FALSE,2012,TRUE
+MERCH00607,fraud_Dibbert-Green,entertainment,small,UK,Thomasside,3.35,FALSE,2000,TRUE
+MERCH00617,fraud_Brown Inc,kids_pets,medium,US,New Jacksonmouth,2,FALSE,1999,TRUE
+MERCH00620,fraud_Fadel-Hilpert,health_fitness,medium,France,Tiffanyfort,2.25,FALSE,2015,TRUE
+MERCH00621,"fraud_Turner, Ziemann and Lehner",food_dining,small,Australia,South Pamela,3.29,FALSE,1997,TRUE
+MERCH00622,fraud_Fritsch LLC,travel,small,US,Walshville,2.87,FALSE,2015,FALSE
+MERCH00628,"fraud_Labadie, Treutel and Bode",shopping_net,small,Germany,Knightmouth,2.57,TRUE,2002,FALSE
+MERCH00629,"fraud_Hodkiewicz, Prohaska and Paucek",travel,medium,US,Deannaberg,2.34,FALSE,2016,TRUE
+MERCH00640,fraud_Swift PLC,kids_pets,small,US,Lake Michaelfurt,2.57,FALSE,2004,TRUE
+MERCH00641,fraud_Little-Gleichner,travel,small,Germany,Cortezton,3.28,FALSE,2010,TRUE
+MERCH00644,fraud_Stamm-Witting,shopping_net,medium,US,Savagestad,2.15,TRUE,2017,TRUE
+MERCH00646,"fraud_Zboncak, Rowe and Murazik",shopping_net,small,US,New Joshuaville,2.66,TRUE,2000,TRUE
+MERCH00647,fraud_Baumbach Ltd,personal_care,small,France,North Matthew,3.02,FALSE,1999,TRUE
+MERCH00648,"fraud_Lowe, Dietrich and Erdman",kids_pets,small,UK,New Sara,3.05,FALSE,1994,TRUE
+MERCH00653,"fraud_Hermiston, Russel and Price",food_dining,medium,US,Port Michaelville,2.25,FALSE,2008,TRUE
+MERCH00655,fraud_Auer LLC,personal_care,small,UK,Riveraside,3.22,FALSE,2009,TRUE
+MERCH00658,fraud_Fritsch and Sons,health_fitness,enterprise,US,Lake Mark,1.69,FALSE,1992,TRUE
+MERCH00662,fraud_Wilkinson PLC,kids_pets,medium,US,Morrowstad,2.26,FALSE,2014,TRUE
+MERCH00674,fraud_Jakubowski Inc,home,medium,US,Adamsstad,2.42,FALSE,2007,TRUE
+MERCH00678,fraud_Boyer-Reichert,shopping_net,enterprise,US,Gloverburgh,1.64,TRUE,2011,TRUE
+MERCH00679,fraud_Boyer-Haley,travel,medium,UK,Davidton,1.91,FALSE,2003,TRUE
+MERCH00682,fraud_Dietrich-Fadel,health_fitness,small,UK,Dunnburgh,2.81,FALSE,2012,TRUE
+MERCH00690,"fraud_Haley, Jewess and Bechtelar",shopping_pos,enterprise,US,North Sallyport,1.32,FALSE,2014,TRUE
+MERCH00695,fraud_McGlynn-Jaskolski,misc_pos,medium,US,North Susanfurt,2.13,FALSE,1998,TRUE
+MERCH00696,"fraud_Turcotte, McKenzie and Koss",entertainment,small,US,Yolandaside,3.45,FALSE,2017,TRUE
+MERCH00699,"fraud_Cormier, Stracke and Thiel",entertainment,small,Germany,Blackburnshire,2.66,FALSE,2000,TRUE
+MERCH00702,"fraud_Baumbach, Feeney and Morar",shopping_net,medium,US,North Ronaldside,1.91,TRUE,2006,TRUE
+MERCH00711,fraud_Turcotte-Halvorson,misc_pos,enterprise,US,Nataliemouth,1.07,FALSE,2002,TRUE
+MERCH00713,fraud_Hyatt-Blick,travel,enterprise,US,New Judithfurt,1.28,FALSE,1991,TRUE
+MERCH00719,"fraud_Bernier, Volkman and Hoeger",misc_net,medium,Canada,Sarahview,2.27,TRUE,1999,TRUE
+MERCH00728,"fraud_Gottlieb, Considine and Schultz",shopping_net,enterprise,US,East John,1.71,TRUE,2013,TRUE
+MERCH00734,fraud_Frami Group,entertainment,medium,US,Kevinview,1.84,FALSE,2007,TRUE
+MERCH00735,fraud_Lebsack and Sons,misc_net,medium,US,Lynchchester,2.15,TRUE,2014,TRUE
+MERCH00738,"fraud_Haley, Batz and Auer",health_fitness,enterprise,UK,Terryshire,1.49,FALSE,1994,FALSE
+MERCH00740,fraud_Beier-Hyatt,shopping_pos,small,Canada,Lake Elizabeth,2.84,FALSE,2020,TRUE
+MERCH00741,fraud_Halvorson Group,misc_pos,small,UK,Brewermouth,2.9,FALSE,1991,TRUE
+MERCH00742,fraud_Johns-Hoeger,entertainment,small,US,West Dorothyhaven,2.97,FALSE,2004,TRUE
+MERCH00743,fraud_Schroeder Group,health_fitness,enterprise,US,Nicholasburgh,1.75,FALSE,2000,TRUE
+MERCH00753,"fraud_Weimann, Kuhic and Beahan",shopping_pos,enterprise,UK,South Deborahchester,1.24,FALSE,2000,TRUE
+MERCH00759,fraud_Kozey-Kuhlman,personal_care,medium,US,New Bobbyport,2.19,FALSE,2005,TRUE
+MERCH00761,fraud_Kris-Padberg,shopping_pos,small,UK,Laurieburgh,3.48,FALSE,2008,TRUE
+MERCH00762,fraud_Dibbert and Sons,entertainment,enterprise,Germany,Williamsmouth,1.5,FALSE,2009,TRUE
+MERCH00764,fraud_Collier LLC,home,enterprise,Canada,North Meredithton,1.62,FALSE,2008,TRUE
+MERCH00766,fraud_Bednar Inc,travel,small,US,Lake Nicholasland,3.02,FALSE,2013,TRUE
+MERCH00771,fraud_Durgan-Auer,misc_net,enterprise,US,North Martinville,1.54,TRUE,1991,TRUE
+MERCH00776,fraud_Murray-Smitham,grocery_pos,medium,US,Jonesmouth,2.11,FALSE,2003,TRUE
+MERCH00777,"fraud_Kling, Howe and Schneider",home,medium,US,New Jasonberg,2.34,FALSE,2019,TRUE
+MERCH00778,fraud_Larson-Moen,entertainment,enterprise,UK,Port Cory,1.56,FALSE,2006,TRUE
+MERCH00791,fraud_Cruickshank-Mills,entertainment,small,UK,West Daniel,3.03,FALSE,2000,FALSE
+MERCH00795,"fraud_Berge, Kautzer and Harris",personal_care,medium,US,North Adamville,2.18,FALSE,2011,TRUE
+MERCH00801,fraud_O'Hara-Wilderman,food_dining,medium,UK,Veronicashire,2.29,FALSE,2009,TRUE
+MERCH00803,"fraud_Hyatt, Russel and Gleichner",health_fitness,enterprise,US,Michellehaven,1.24,FALSE,2020,FALSE
+MERCH00807,"fraud_Bins, Balistreri and Beatty",shopping_pos,small,US,Caseystad,2.71,FALSE,2012,TRUE
+MERCH00821,fraud_Jewess LLC,shopping_pos,medium,US,Andreastad,2.45,FALSE,2013,TRUE
+MERCH00823,"fraud_Hartmann, Rowe and Hermann",travel,small,UK,North Victoriashire,2.88,FALSE,2002,TRUE
+MERCH00830,fraud_Buckridge PLC,misc_pos,enterprise,Canada,New Caitlinside,1.23,FALSE,1999,FALSE
+MERCH00835,fraud_Langworth LLC,personal_care,small,France,Lake Janiceborough,3.16,FALSE,2013,TRUE
+MERCH00842,"fraud_Metz, Russel and Metz",kids_pets,small,US,North Natalie,3.43,FALSE,2012,TRUE
+MERCH00845,"fraud_Schoen, Kuphal and Nitzsche",grocery_pos,small,UK,South Jamesland,2.74,FALSE,1991,TRUE
+MERCH00847,fraud_Erdman-Schaden,personal_care,medium,UK,Loriberg,1.84,FALSE,2003,TRUE
+MERCH00849,fraud_Reichert-Weissnat,travel,medium,UK,East Yvetteview,1.9,FALSE,2020,TRUE
+MERCH00859,fraud_McDermott-Rice,misc_pos,enterprise,US,South Williamstad,1.75,FALSE,2018,TRUE
+MERCH00860,"fraud_Streich, Dietrich and Barton",shopping_net,medium,Canada,Lake Bobby,2,TRUE,1999,TRUE
+MERCH00874,fraud_Gerlach Inc,shopping_net,enterprise,US,Lake Christian,1.46,TRUE,2007,TRUE
+MERCH00877,fraud_Dooley Inc,shopping_pos,enterprise,US,Hestertown,1.74,FALSE,2003,TRUE
+MERCH00889,fraud_Thompson-Gleason,health_fitness,small,France,Lake Michael,3.5,FALSE,2002,TRUE
+MERCH00892,"fraud_Reichert, Shanahan and Hayes",shopping_net,small,UK,Lesliemouth,3.37,TRUE,1999,TRUE
+MERCH00901,"fraud_Kutch, Steuber and Gerhold",food_dining,small,US,West Robinton,2.61,FALSE,2000,TRUE
+MERCH00909,fraud_Harris Group,food_dining,enterprise,US,Scottborough,1.4,FALSE,2020,TRUE
+MERCH00916,"fraud_Schuppe, Nolan and Hoeger",shopping_pos,medium,US,Krauseborough,2.37,FALSE,2000,TRUE
+MERCH00922,fraud_Bashirian Group,shopping_net,medium,US,Lake Bradleyburgh,1.93,TRUE,2013,TRUE
+MERCH00932,"fraud_Towne, Greenholt and Koepp",shopping_net,small,UK,Jennifermouth,2.69,TRUE,2009,TRUE
+MERCH00936,fraud_Haag-Blanda,food_dining,enterprise,Canada,Aaronbury,1.41,FALSE,1992,TRUE
+MERCH00940,fraud_Abbott-Rogahn,entertainment,small,Australia,South Angela,2.98,FALSE,2019,TRUE
+MERCH00942,fraud_Lind-Buckridge,entertainment,small,US,New Christopherfort,3.25,FALSE,2020,TRUE
+MERCH00945,"fraud_Altenwerth, Cartwright and Koss",shopping_net,medium,US,Seanborough,1.98,TRUE,2001,TRUE
+MERCH00947,"fraud_Daugherty, Pouros and Beahan",shopping_pos,small,US,Lake Mary,2.81,FALSE,2002,TRUE
+MERCH00952,"fraud_Langosh, Wintheiser and Hyatt",food_dining,enterprise,Germany,Port Janiceville,1.62,FALSE,2012,TRUE
+MERCH00954,fraud_Beier LLC,entertainment,enterprise,US,Port Neil,1.49,FALSE,1997,FALSE
+MERCH00967,"fraud_Brown, Homenick and Lesch",health_fitness,medium,US,Dustinburgh,2.49,FALSE,2001,TRUE
+MERCH00976,fraud_Spencer PLC,entertainment,medium,US,Watsonstad,2.18,FALSE,2011,TRUE
+MERCH00981,"fraud_Ritchie, Oberbrunner and Cremin",travel,medium,UK,Jeffreyhaven,2.22,FALSE,2015,TRUE
+MERCH00984,fraud_Kovacek Ltd,travel,medium,UK,Petersonport,1.85,FALSE,2008,TRUE
+MERCH00985,fraud_Pollich LLC,home,enterprise,France,Port Morgan,1.16,FALSE,2007,TRUE
+MERCH00991,"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,small,US,South Jonathan,2.62,FALSE,1996,TRUE
+MERCH00995,"fraud_Koss, McLaughlin and Mayer",food_dining,medium,Germany,Carolineton,2.11,FALSE,1991,TRUE
+MERCH00999,fraud_Kessler Group,travel,medium,US,Kurthaven,1.84,FALSE,2004,TRUE
+MERCH01001,fraud_Smith-Stokes,misc_pos,small,US,Luisberg,2.75,FALSE,1990,TRUE
+MERCH01008,fraud_Herman Inc,misc_pos,medium,US,South Shawnhaven,2.04,FALSE,1992,TRUE
+MERCH01034,fraud_Kuhic LLC,shopping_net,small,Germany,Walkerview,3.49,TRUE,2005,TRUE
+MERCH01035,fraud_Pfeffer and Sons,shopping_pos,medium,Canada,Fullerhaven,2.34,FALSE,2013,TRUE
+MERCH01041,fraud_Botsford PLC,home,medium,Australia,East Amanda,2.07,FALSE,2017,TRUE
+MERCH01042,"fraud_Schoen, Nienow and Bauch",personal_care,small,US,Powellville,3.46,FALSE,2017,TRUE
+MERCH01065,fraud_Turner LLC,travel,medium,US,Shaneburgh,1.92,FALSE,2007,TRUE
+MERCH01080,"fraud_Parker, Nolan and Trantow",entertainment,small,Australia,Ramseyside,3.33,FALSE,2014,TRUE
+MERCH01082,"fraud_Ritchie, Bradtke and Stiedemann",travel,small,UK,Troyton,3.04,FALSE,2007,TRUE
+MERCH01091,fraud_Ruecker-Mayert,kids_pets,small,US,West Amandastad,2.66,FALSE,1996,TRUE
+MERCH01092,fraud_Ullrich Ltd,kids_pets,medium,US,Alexisbury,2.37,FALSE,2003,TRUE
+MERCH01097,"fraud_Schmeler, Bashirian and Price",shopping_net,enterprise,Germany,Carneytown,1.19,TRUE,1992,TRUE
+MERCH01107,fraud_Mosciski Group,travel,small,US,Kaitlynmouth,3.2,FALSE,1991,TRUE
+MERCH01116,"fraud_Boehm, Block and Jakubowski",misc_pos,small,US,Michaelland,3.04,FALSE,2014,TRUE
+MERCH01135,fraud_Deckow-Dare,food_dining,small,US,Lake Elizabethhaven,2.79,FALSE,2016,TRUE
+MERCH01149,fraud_Beer-Jast,kids_pets,medium,US,Mcintyreville,2.34,FALSE,2016,TRUE
+MERCH01169,fraud_Schimmel-Olson,kids_pets,small,US,Murraymouth,3.16,FALSE,1997,TRUE
+MERCH01170,fraud_Schmeler Inc,misc_pos,small,US,Norrisburgh,3.09,FALSE,2013,TRUE
+MERCH01171,fraud_Thiel PLC,misc_pos,medium,US,Port Lisa,2.15,FALSE,2001,TRUE
+MERCH01175,"fraud_Boehm, Predovic and Reinger",misc_pos,medium,Canada,Donaldbury,2.02,FALSE,2003,TRUE
+MERCH01181,fraud_Graham and Sons,health_fitness,small,US,South Colleen,3.04,FALSE,1997,TRUE
+MERCH01193,fraud_McCullough LLC,misc_pos,small,UK,Caseyview,3.31,FALSE,2019,TRUE
+MERCH01215,"fraud_Mosciski, Gislason and Mertz",grocery_pos,medium,US,Michaeltown,2.17,FALSE,2002,TRUE
+MERCH01221,"fraud_Schroeder, Hauck and Treutel",entertainment,small,UK,Michaelbury,3.42,FALSE,2017,TRUE
+MERCH01228,fraud_Block-Parisian,misc_net,medium,Canada,Lauraberg,1.84,TRUE,2002,TRUE
+MERCH01234,fraud_Flatley Group,misc_pos,medium,Germany,Port Matthewton,1.93,FALSE,2014,TRUE
+MERCH01241,"fraud_McLaughlin, Armstrong and Koepp",travel,medium,US,South Michaelburgh,1.95,FALSE,2019,TRUE
+MERCH01281,fraud_Wilkinson LLC,personal_care,enterprise,US,Mooremouth,1.75,FALSE,2020,TRUE
+MERCH01308,fraud_Sawayn PLC,shopping_pos,medium,Canada,Muellerville,2.44,FALSE,2012,TRUE
+MERCH01309,fraud_Eichmann-Russel,misc_pos,small,France,Rachelmouth,3.05,FALSE,2014,TRUE
+MERCH01325,fraud_Hermann and Sons,shopping_pos,medium,UK,Castanedaville,2.02,FALSE,2001,TRUE
+MERCH01328,fraud_Goyette Inc,shopping_net,medium,US,Lake Alejandro,2.49,TRUE,2005,TRUE
+MERCH01355,fraud_Barton LLC,kids_pets,small,US,Lake Emily,2.81,FALSE,1991,TRUE
+MERCH01358,"fraud_Yost, Block and Koepp",misc_pos,small,US,Austintown,2.76,FALSE,2019,TRUE
+MERCH01363,fraud_Kerluke-Abshire,shopping_net,medium,US,Samanthachester,1.94,TRUE,1997,TRUE
+MERCH01379,fraud_Padberg-Rogahn,entertainment,enterprise,US,Barrettfurt,1.52,FALSE,2011,TRUE
+MERCH01382,fraud_Dach-Nader,misc_net,medium,US,Port Alicia,2.31,TRUE,2013,TRUE
+MERCH01386,"fraud_Wintheiser, Dietrich and Schimmel",misc_pos,small,Canada,Rodneyborough,2.67,FALSE,2013,TRUE
+MERCH01387,"fraud_Champlin, Rolfson and Connelly",travel,small,Germany,New Brianport,3.49,FALSE,2020,TRUE
+MERCH01397,fraud_Jacobi Inc,health_fitness,small,Canada,Geneton,3.45,FALSE,2011,TRUE
+MERCH01406,fraud_Koelpin and Sons,misc_net,small,US,Lake Curtisside,3.13,TRUE,1992,TRUE
+MERCH01409,"fraud_Medhurst, Labadie and Gottlieb",travel,small,US,South Olivia,2.87,FALSE,2009,TRUE
+MERCH01430,fraud_Bednar Group,misc_net,enterprise,France,East Katrina,1.53,TRUE,1990,TRUE
+MERCH01432,fraud_Friesen-Ortiz,personal_care,medium,US,South Roger,2.17,FALSE,1998,TRUE
+MERCH01468,"fraud_Turner, Ruecker and Parisian",misc_pos,small,US,Marvinburgh,3.2,FALSE,2003,TRUE
+MERCH01470,fraud_Rutherford-Mertz,grocery_pos,enterprise,US,Scottfurt,1.08,FALSE,1994,TRUE
+MERCH01483,fraud_Gutmann-Upton,misc_pos,medium,US,Port Brucechester,2.05,FALSE,2015,TRUE
+MERCH01495,"fraud_Medhurst, Cartwright and Ebert",personal_care,small,US,Riosfort,3.07,FALSE,2012,TRUE
+MERCH01497,"fraud_Nicolas, Hills and McGlynn",entertainment,medium,Canada,South Crystalfurt,2.26,FALSE,2017,TRUE
+MERCH01500,"fraud_Nitzsche, Kessler and Wolff",shopping_pos,small,US,Murphyville,2.88,FALSE,2005,TRUE
+MERCH01570,fraud_Wilkinson Ltd,entertainment,small,US,Chambersfort,3,FALSE,2003,TRUE
+MERCH01595,fraud_Kris-Kertzmann,travel,small,Australia,Richardmouth,3.47,FALSE,2018,TRUE
+MERCH01610,fraud_Roberts-Beahan,misc_pos,small,US,Lake Denise,3.37,FALSE,2018,TRUE
+MERCH01633,fraud_Bernhard-Lesch,food_dining,small,France,South Jesseport,3.18,FALSE,1998,TRUE
+MERCH01645,"fraud_Monahan, Bogisich and Ledner",misc_pos,medium,US,Harrisville,2.45,FALSE,2000,TRUE
+MERCH01671,fraud_Kessler Inc,travel,small,US,Port James,3.32,FALSE,2016,TRUE
+MERCH01672,fraud_Padberg-Welch,grocery_pos,small,US,East Natalie,2.74,FALSE,2016,TRUE
+MERCH01705,fraud_Block Group,misc_pos,medium,US,Lawrencemouth,2.07,FALSE,2013,TRUE
+MERCH01724,fraud_Torphy-Goyette,shopping_pos,enterprise,UK,West Teresaside,1.4,FALSE,2001,TRUE
+MERCH01735,"fraud_Mante, Luettgen and Hackett",health_fitness,medium,Canada,Maymouth,2.04,FALSE,2014,TRUE
+MERCH01747,fraud_Bailey-Morar,grocery_pos,medium,Australia,Santosfurt,2.03,FALSE,2010,TRUE
+MERCH01749,fraud_Lynch-Mohr,travel,enterprise,US,Gillespieland,1.28,FALSE,2020,TRUE
+MERCH01767,"fraud_Rodriguez, Yost and Jenkins",misc_net,small,US,Jacksonfurt,2.88,TRUE,2014,TRUE
+MERCH01769,fraud_Stamm-Rodriguez,misc_pos,medium,UK,Ruthhaven,1.86,FALSE,1994,TRUE
+MERCH01777,"fraud_Okuneva, Schneider and Rau",shopping_pos,medium,US,Jonathanville,2.07,FALSE,2001,TRUE
+MERCH01822,fraud_Hirthe-Beier,health_fitness,small,US,Amberstad,2.86,FALSE,1998,TRUE
+MERCH01872,fraud_Tromp Group,travel,small,US,Port Daniel,3.06,FALSE,2006,TRUE
+MERCH01938,"fraud_Schroeder, Wolff and Hermiston",travel,small,US,Heatherhaven,2.59,FALSE,2009,TRUE
+MERCH01956,"fraud_Reichert, Rowe and Mraz",shopping_net,enterprise,US,East Vanessa,1.33,TRUE,2014,TRUE
+MERCH01992,fraud_Bahringer-Streich,food_dining,enterprise,France,Lake Katelyn,1.78,FALSE,2008,TRUE
+MERCH02014,fraud_Romaguera and Sons,travel,medium,US,Hernandezfort,1.99,FALSE,1998,TRUE
+MERCH02026,fraud_Lemke-Gutmann,shopping_net,small,US,Vanessastad,2.92,TRUE,2005,TRUE
+MERCH02028,fraud_Heller-Langosh,gas_transport,small,France,Simpsonside,3.22,FALSE,2005,TRUE
+MERCH02029,fraud_Hintz-Bruen,grocery_net,small,US,Ramirezmouth,2.8,FALSE,2020,TRUE
+MERCH02030,fraud_McGlynn-Heathcote,misc_net,enterprise,US,East Michaelstad,1.69,TRUE,2004,TRUE
+MERCH02031,fraud_Bernhard Inc,gas_transport,enterprise,Germany,Lake Frank,1.78,FALSE,1994,TRUE
+MERCH02032,fraud_Bahringer-Larson,grocery_net,medium,UK,West Anthony,2.14,FALSE,1995,FALSE
+MERCH02035,"fraud_Reilly, Heaney and Cole",gas_transport,enterprise,US,Ryanview,1.56,FALSE,2005,FALSE
+MERCH02040,"fraud_Bernier, Streich and Jewess",grocery_net,medium,US,South Daniellebury,2,FALSE,2015,TRUE
+MERCH02041,fraud_Friesen-D'Amore,gas_transport,small,US,Nelsontown,3.09,FALSE,2007,TRUE
+MERCH02042,"fraud_Huel, Hammes and Witting",grocery_pos,medium,US,East Aaron,2.31,FALSE,2020,TRUE
+MERCH02044,fraud_Miller-Hauck,grocery_pos,medium,US,New Rickyfurt,2.28,FALSE,2016,TRUE
+MERCH02045,fraud_Skiles-Ankunding,grocery_net,medium,UK,North Charlesbury,1.9,FALSE,1999,TRUE
+MERCH02049,fraud_Schmitt Ltd,misc_net,medium,UK,Smithview,2.35,TRUE,1992,TRUE
+MERCH02050,fraud_Kerluke Inc,misc_net,medium,US,Webbstad,2.17,TRUE,2019,TRUE
+MERCH02055,fraud_Volkman Ltd,misc_net,medium,US,North Jonathanland,2.35,TRUE,2001,TRUE
+MERCH02057,fraud_Prohaska-Murray,gas_transport,enterprise,US,Karenfort,1.73,FALSE,1993,TRUE
+MERCH02060,fraud_Schmitt Inc,gas_transport,medium,US,North Jeffrey,2.25,FALSE,1991,TRUE
+MERCH02061,"fraud_Kerluke, Considine and Macejkovic",misc_net,medium,UK,West Mitchell,2.48,TRUE,2000,FALSE
+MERCH02062,fraud_Kutch-Hegmann,grocery_net,medium,US,Scottborough,1.98,FALSE,2006,TRUE
+MERCH02063,fraud_Spinka Inc,grocery_net,medium,UK,Thompsonbury,1.95,FALSE,2001,TRUE
+MERCH02064,fraud_Stracke-Lemke,grocery_pos,medium,US,Amberburgh,2.15,FALSE,2001,FALSE
+MERCH02066,"fraud_Raynor, Feest and Miller",gas_transport,medium,US,West Marcoburgh,2.44,FALSE,1992,TRUE
+MERCH02068,fraud_Strosin-Cruickshank,grocery_pos,enterprise,US,Ellisstad,1.25,FALSE,2004,TRUE
+MERCH02069,"fraud_Schaefer, McGlynn and Bosco",gas_transport,medium,US,Bakerberg,1.87,FALSE,2013,TRUE
+MERCH02070,fraud_Marks Inc,gas_transport,small,US,Janetchester,3.31,FALSE,1993,TRUE
+MERCH02071,fraud_Huel-Langworth,misc_net,small,US,North Ricardomouth,3.3,TRUE,2019,FALSE
+MERCH02074,"fraud_Eichmann, Bogan and Rodriguez",gas_transport,small,US,Edwardmouth,2.66,FALSE,2007,TRUE
+MERCH02077,"fraud_Morissette, Weber and Wiegand",grocery_net,medium,Canada,Cummingsshire,2.24,FALSE,1995,TRUE
+MERCH02078,"fraud_Moen, Reinger and Murphy",grocery_pos,medium,US,South Randy,2.23,FALSE,1996,TRUE
+MERCH02080,"fraud_Schultz, Simonis and Little",grocery_pos,medium,US,Sandraberg,1.95,FALSE,1998,TRUE
+MERCH02081,"fraud_Ferry, Lynch and Kautzer",misc_net,enterprise,US,Johnside,1.08,TRUE,2017,TRUE
+MERCH02083,"fraud_Osinski, Ledner and Leuschke",grocery_pos,small,US,Port Javierborough,2.61,FALSE,2011,TRUE
+MERCH02087,fraud_Ledner-Pfannerstill,gas_transport,medium,UK,South Tanner,2.22,FALSE,2009,TRUE
+MERCH02089,fraud_O'Keefe-Hudson,grocery_pos,small,US,Jensenchester,2.96,FALSE,1995,TRUE
+MERCH02091,fraud_Murray Ltd,grocery_net,medium,US,Lake Adrienne,2.23,FALSE,1992,TRUE
+MERCH02092,fraud_Pfeffer LLC,grocery_net,small,US,Edwardsberg,2.62,FALSE,2001,TRUE
+MERCH02094,fraud_Cole PLC,grocery_pos,medium,US,Garnerstad,1.9,FALSE,2002,TRUE
+MERCH02096,fraud_Hudson-Ratke,grocery_pos,medium,US,Smithhaven,2.44,FALSE,2019,FALSE
+MERCH02098,fraud_Kuvalis Ltd,gas_transport,medium,US,East David,1.9,FALSE,2000,TRUE
+MERCH02101,fraud_Miller-Harris,misc_net,medium,Germany,Castroburgh,2.47,TRUE,2005,TRUE
+MERCH02102,"fraud_Zieme, Bode and Dooley",gas_transport,enterprise,Australia,East Jason,1.4,FALSE,2005,TRUE
+MERCH02103,"fraud_Swaniawski, Lowe and Robel",shopping_pos,medium,UK,Hodgesburgh,2.11,FALSE,1995,TRUE
+MERCH02104,fraud_Kemmer-Buckridge,misc_pos,small,Canada,Willismouth,2.79,FALSE,1998,TRUE
+MERCH02106,"fraud_Swift, Bradtke and Marquardt",grocery_net,small,Canada,Kingville,3.07,FALSE,2014,TRUE
+MERCH02107,"fraud_Olson, Becker and Koch",gas_transport,medium,US,Torrestown,1.88,FALSE,2014,TRUE
+MERCH02113,fraud_Bartoletti-Wunsch,gas_transport,enterprise,US,North Earl,1.61,FALSE,2014,TRUE
+MERCH02116,fraud_Emard Inc,gas_transport,medium,Australia,North Trevorside,1.87,FALSE,2016,TRUE
+MERCH02120,"fraud_Ferry, Reichel and DuBuque",grocery_net,small,Germany,Carlafurt,2.53,FALSE,1998,TRUE
+MERCH02122,fraud_Kemmer-Reinger,grocery_net,enterprise,US,Lyonsport,1.8,FALSE,2014,TRUE
+MERCH02123,fraud_Koss and Sons,gas_transport,small,UK,South Jonathanburgh,3.19,FALSE,2017,TRUE
+MERCH02124,fraud_Hackett-Lueilwitz,grocery_pos,medium,US,Cabreratown,1.9,FALSE,1996,TRUE
+MERCH02126,fraud_Barton Inc,grocery_pos,enterprise,US,Ashleyport,1.43,FALSE,2009,TRUE
+MERCH02129,fraud_Lockman Ltd,grocery_pos,small,UK,Nguyenfurt,2.79,FALSE,1998,FALSE
+MERCH02131,fraud_Klocko LLC,misc_net,medium,France,Rebeccaberg,2.37,TRUE,1994,FALSE
+MERCH02132,fraud_Kunze Inc,grocery_pos,medium,France,West Samantha,2.49,FALSE,2017,TRUE
+MERCH02133,fraud_Luettgen PLC,gas_transport,medium,US,Petersonberg,1.9,FALSE,2000,TRUE
+MERCH02134,fraud_Cummerata-Jones,gas_transport,medium,UK,Ramosshire,2.14,FALSE,2008,TRUE
+MERCH02136,"fraud_Rowe, Batz and Goodwin",grocery_pos,medium,US,West Nicholas,1.85,FALSE,2015,TRUE
+MERCH02139,fraud_Kling Inc,gas_transport,small,US,West Shawnberg,2.78,FALSE,2019,TRUE
+MERCH02142,fraud_Kiehn-Emmerich,grocery_pos,medium,US,Debrabury,2.21,FALSE,2017,TRUE
+MERCH02144,fraud_Parisian and Sons,gas_transport,medium,UK,Vincentburgh,2.12,FALSE,2011,TRUE
+MERCH02148,fraud_Sporer Inc,gas_transport,enterprise,Canada,West Melissa,1.32,FALSE,2020,TRUE
+MERCH02156,fraud_Kuphal-Bartoletti,misc_net,small,US,Alexanderchester,3.33,TRUE,2000,TRUE
+MERCH02157,"fraud_Harris, Gusikowski and Heaney",grocery_net,small,Germany,Barbertown,3.29,FALSE,2018,TRUE
+MERCH02159,fraud_Mraz-Herzog,gas_transport,small,US,East Taylorberg,3.28,FALSE,2004,TRUE
+MERCH02166,fraud_Huels-Hahn,gas_transport,enterprise,US,East Brianna,1.37,FALSE,2020,TRUE
+MERCH02167,"fraud_Stroman, Hudson and Erdman",gas_transport,enterprise,France,Ramirezhaven,1.71,FALSE,1999,TRUE
+MERCH02168,fraud_Huel Ltd,misc_net,enterprise,US,West Carol,1.52,TRUE,1998,TRUE
+MERCH02171,"fraud_Cremin, Hamill and Reichel",misc_pos,medium,UK,East Davidburgh,1.84,FALSE,2010,TRUE
+MERCH02172,fraud_Rowe-Vandervort,grocery_net,medium,US,Kathyfort,2.26,FALSE,2012,TRUE
+MERCH02175,fraud_Bins-Rice,gas_transport,small,US,Sandovalfort,3.09,FALSE,2006,TRUE
+MERCH02176,fraud_DuBuque LLC,grocery_pos,small,UK,Martinezmouth,3.32,FALSE,2017,TRUE
+MERCH02177,fraud_Torp-Labadie,gas_transport,small,US,Wangtown,2.88,FALSE,2013,TRUE
+MERCH02181,fraud_Kiehn Inc,grocery_pos,small,US,Sherryburgh,2.8,FALSE,2002,TRUE
+MERCH02182,"fraud_Tillman, Dickinson and Labadie",gas_transport,medium,US,Banksville,2.5,FALSE,1994,TRUE
+MERCH02186,fraud_Friesen-Stamm,gas_transport,medium,UK,Gutierrezstad,1.91,FALSE,2001,TRUE
+MERCH02191,fraud_Kuhic Inc,grocery_pos,medium,US,South Joseph,2.09,FALSE,2011,TRUE
+MERCH02192,fraud_Dickinson-Rempel,misc_pos,small,Germany,Mariashire,2.64,FALSE,1993,TRUE
+MERCH02193,fraud_Hudson-Grady,shopping_pos,small,Australia,Michelletown,2.81,FALSE,1994,TRUE
+MERCH02195,"fraud_Goldner, Kovacek and Abbott",grocery_pos,medium,US,Maxwelltown,2.22,FALSE,2013,TRUE
+MERCH02204,fraud_Corwin-Collins,gas_transport,medium,UK,West Joannamouth,2.39,FALSE,2011,TRUE
+MERCH02208,"fraud_Tillman, Fritsch and Schmitt",misc_net,small,UK,East Michelletown,2.69,TRUE,2002,TRUE
+MERCH02209,fraud_Dach-Borer,grocery_net,small,Germany,Lake Jeremytown,3.45,FALSE,2005,TRUE
+MERCH02219,fraud_Morar Inc,grocery_net,small,UK,Lake Brianville,2.57,FALSE,2018,FALSE
+MERCH02220,"fraud_Kutch, Hermiston and Farrell",gas_transport,enterprise,France,Loweryton,1.11,FALSE,2017,TRUE
+MERCH02221,"fraud_Connelly, Reichert and Fritsch",gas_transport,medium,US,Steinland,1.92,FALSE,2005,FALSE
+MERCH02226,fraud_Schamberger-O'Keefe,grocery_pos,medium,US,Shirleyport,1.85,FALSE,1998,TRUE
+MERCH02236,fraud_McDermott-Weimann,grocery_pos,enterprise,France,West Dylan,1.32,FALSE,1999,TRUE
+MERCH02241,fraud_Kerluke PLC,misc_net,medium,US,North Kaylahaven,2.29,TRUE,1992,TRUE
+MERCH02242,"fraud_Casper, Hand and Zulauf",grocery_pos,medium,US,South Robert,1.86,FALSE,1992,TRUE
+MERCH02243,"fraud_Greenfelder, Bartoletti and Davis",misc_net,small,Canada,Douglasport,3.04,TRUE,2002,TRUE
+MERCH02253,fraud_Cartwright-Harris,grocery_pos,medium,UK,Lake Michael,2.25,FALSE,1999,TRUE
+MERCH02254,fraud_Rau and Sons,grocery_pos,medium,Canada,East Austin,1.84,FALSE,1992,TRUE
+MERCH02255,fraud_Erdman-Kertzmann,gas_transport,small,UK,Lake Thomas,2.56,FALSE,2011,TRUE
+MERCH02262,fraud_Hamill-Daugherty,misc_net,medium,US,West Collin,2.3,TRUE,2012,TRUE
+MERCH02270,fraud_Jaskolski-Vandervort,misc_net,medium,US,Walshview,2.16,TRUE,2016,TRUE
+MERCH02271,fraud_Huels-Nolan,gas_transport,small,US,Kristinaborough,3.28,FALSE,1998,TRUE
+MERCH02274,fraud_Trantow PLC,grocery_net,small,Germany,Port Scott,2.84,FALSE,2003,TRUE
+MERCH02287,"fraud_Lockman, West and Runte",grocery_pos,small,UK,New Tiffany,3.08,FALSE,1992,TRUE
+MERCH02289,"fraud_Johnson, Runolfsdottir and Mayer",misc_net,medium,US,Angelaside,2.4,TRUE,1995,TRUE
+MERCH02293,"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,small,US,West Autumnville,3.07,FALSE,2013,TRUE
+MERCH02294,"fraud_Raynor, Reinger and Hagenes",gas_transport,medium,US,Lake Joseph,2.4,FALSE,1990,TRUE
+MERCH02303,fraud_Kutch LLC,gas_transport,medium,US,Dianeville,1.91,FALSE,2019,FALSE
+MERCH02305,fraud_Dooley-Thompson,misc_net,small,Canada,Richardsberg,3.21,TRUE,2010,TRUE
+MERCH02307,fraud_Harber Inc,gas_transport,small,US,South Henryville,3.22,FALSE,1998,TRUE
+MERCH02315,"fraud_Schumm, Bauch and Ondricka",grocery_pos,medium,US,New Michellechester,2.27,FALSE,1991,TRUE
+MERCH02317,"fraud_Moore, Dibbert and Koepp",misc_net,enterprise,Australia,Salazarland,1.76,TRUE,1992,TRUE
+MERCH02327,fraud_Flatley-Durgan,misc_net,enterprise,Canada,Hansontown,1.25,TRUE,1992,TRUE
+MERCH02331,fraud_Rodriguez Group,gas_transport,small,US,West Joshuaview,3.06,FALSE,1999,TRUE
+MERCH02335,"fraud_Stokes, Christiansen and Sipes",grocery_net,small,US,South Kelly,3.47,FALSE,2014,TRUE
+MERCH02336,fraud_Heidenreich PLC,grocery_pos,medium,US,Hudsonton,2.36,FALSE,1994,TRUE
+MERCH02338,fraud_Bauch-Raynor,grocery_pos,medium,US,East Marcia,2.04,FALSE,2016,TRUE
+MERCH02341,"fraud_Langworth, Boehm and Gulgowski",shopping_net,small,US,Hansonville,3.26,TRUE,2002,TRUE
+MERCH02344,fraud_Runolfsson and Sons,grocery_net,medium,US,East Joseph,2.17,FALSE,1997,TRUE
+MERCH02345,fraud_Ortiz Group,grocery_net,enterprise,Australia,Derrickton,1.11,FALSE,1998,TRUE
+MERCH02349,fraud_Zemlak Group,misc_net,enterprise,Germany,Shelbymouth,1.42,TRUE,2012,TRUE
+MERCH02351,fraud_Wuckert-Walter,grocery_net,medium,UK,Lake Kyle,2.21,FALSE,2006,TRUE
+MERCH02359,"fraud_Tromp, Kerluke and Glover",grocery_net,enterprise,US,Lake Cassandrafort,1.45,FALSE,2003,TRUE
+MERCH02361,fraud_Ruecker Group,misc_net,small,US,Jenniferborough,3.35,TRUE,2019,TRUE
+MERCH02368,fraud_Deckow-O'Conner,grocery_pos,medium,UK,Thomasfort,2.02,FALSE,1998,TRUE
+MERCH02371,"fraud_Heller, Gutmann and Zieme",grocery_pos,enterprise,US,Huffshire,1.62,FALSE,1993,TRUE
+MERCH02373,"fraud_Robel, Cummerata and Prosacco",gas_transport,small,US,East Jeffery,2.91,FALSE,2007,TRUE
+MERCH02376,"fraud_Lind, Huel and McClure",gas_transport,medium,US,Frankbury,2.12,FALSE,2017,TRUE
+MERCH02377,fraud_Roob LLC,grocery_net,small,UK,Jillborough,3.33,FALSE,2012,TRUE
+MERCH02385,fraud_VonRueden Group,grocery_net,small,Germany,East Scott,2.65,FALSE,2012,TRUE
+MERCH02386,fraud_Wolf Inc,grocery_pos,small,US,Joelchester,3.18,FALSE,1998,TRUE
+MERCH02391,fraud_Kutch and Sons,grocery_pos,small,Australia,Lake Kylehaven,3.35,FALSE,2007,TRUE
+MERCH02396,fraud_Gutmann Ltd,grocery_net,small,US,Leahville,3.3,FALSE,1994,TRUE
+MERCH02397,"fraud_Jones, Sawayn and Romaguera",misc_net,small,Canada,West Richardville,2.72,TRUE,1996,TRUE
+MERCH02407,fraud_Brekke and Sons,gas_transport,small,UK,Port Andrew,3.14,FALSE,2008,TRUE
+MERCH02408,"fraud_Adams, Kovacek and Kuhlman",grocery_net,enterprise,US,Brandonborough,1.8,FALSE,1996,TRUE
+MERCH02429,fraud_Collier Inc,grocery_net,medium,US,North Jennifer,2.43,FALSE,2016,TRUE
+MERCH02434,"fraud_Greenholt, Jacobi and Gleason",gas_transport,small,France,Grahamstad,2.55,FALSE,2019,TRUE
+MERCH02437,"fraud_Stehr, Jewess and Schimmel",misc_net,enterprise,US,Robertfort,1.02,TRUE,2011,TRUE
+MERCH02444,fraud_Koepp-Witting,grocery_pos,small,France,West Lisaland,2.77,FALSE,2004,TRUE
+MERCH02447,fraud_Cummings LLC,gas_transport,small,UK,Port Adamport,2.75,FALSE,1999,TRUE
+MERCH02451,fraud_Wiegand-Lowe,grocery_net,enterprise,US,Torresshire,1.07,FALSE,2002,TRUE
+MERCH02459,fraud_Paucek-Wiza,grocery_net,small,Germany,Vegahaven,3.03,FALSE,2010,FALSE
+MERCH02461,fraud_Conroy-Cruickshank,gas_transport,medium,US,West Connorside,2.07,FALSE,2012,TRUE
+MERCH02512,fraud_Bogisich-Homenick,misc_net,medium,US,New Tyler,2.44,TRUE,2006,TRUE
+MERCH02521,"fraud_Jenkins, Hauck and Friesen",gas_transport,small,US,North Jessica,3.1,FALSE,1990,TRUE
+MERCH02522,fraud_Emmerich-Luettgen,grocery_net,medium,US,Ronaldfort,2.49,FALSE,2006,TRUE
+MERCH02525,fraud_Cassin-Harvey,grocery_net,medium,US,Mezaview,1.91,FALSE,1997,TRUE
+MERCH02533,"fraud_Schaefer, Maggio and Daugherty",gas_transport,small,Canada,Priceberg,3.42,FALSE,1991,TRUE
+MERCH02535,"fraud_Kohler, Lindgren and Koelpin",grocery_net,enterprise,US,West Sarahtown,1.79,FALSE,2002,TRUE
+MERCH02538,fraud_Doyle Ltd,grocery_pos,enterprise,Canada,New Markburgh,1.14,FALSE,2008,TRUE
+MERCH02539,fraud_Heller-Abshire,grocery_net,medium,US,Davidberg,2.21,FALSE,2012,TRUE
+MERCH02546,"fraud_Mosciski, Ziemann and Farrell",shopping_net,enterprise,US,North Richard,1.45,TRUE,1996,TRUE
+MERCH02547,fraud_Cummings Group,grocery_net,enterprise,Australia,Bethburgh,1.43,FALSE,1995,TRUE
+MERCH02554,"fraud_Swaniawski, Bahringer and Ledner",grocery_net,small,US,East Jeff,2.72,FALSE,2006,TRUE
+MERCH02588,"fraud_Christiansen, Goyette and Schamberger",gas_transport,small,UK,Lake Patricia,3.31,FALSE,2000,TRUE
+MERCH02593,fraud_Bradtke PLC,grocery_pos,enterprise,Canada,New Curtischester,1.26,FALSE,1990,TRUE
+MERCH02598,"fraud_Streich, Hansen and Veum",gas_transport,medium,US,South Vanessaville,1.88,FALSE,2006,TRUE
+MERCH02605,fraud_Pacocha-O'Reilly,grocery_pos,enterprise,US,Mcdonaldburgh,1.75,FALSE,2002,TRUE
+MERCH02615,fraud_Koepp-Parker,grocery_pos,small,US,Brandonberg,3.48,FALSE,2013,TRUE
+MERCH02647,fraud_Auer-Mosciski,grocery_pos,medium,Australia,Port Tinaborough,2.25,FALSE,1995,TRUE
+MERCH02656,"fraud_Wiza, Schaden and Stark",misc_pos,medium,Germany,New Jacquelineberg,2.23,FALSE,2001,TRUE
+MERCH02661,"fraud_Kuhic, Bins and Pfeffer",shopping_net,medium,US,Valentinefurt,2.01,TRUE,2012,TRUE
+MERCH02674,fraud_Bogisich Inc,grocery_pos,small,US,Cainville,3.2,FALSE,2008,TRUE
+MERCH02675,fraud_Kling-Grant,grocery_net,enterprise,Australia,Robinsonfurt,1.03,FALSE,2009,TRUE
+MERCH02691,fraud_Kutch Group,grocery_net,enterprise,UK,Lake Jillian,1.51,FALSE,1993,TRUE
+MERCH02710,fraud_Kuphal-Predovic,misc_net,small,UK,South Vickiberg,2.74,TRUE,2000,TRUE
+MERCH02735,fraud_Balistreri-Nader,misc_pos,enterprise,US,Lake Mollybury,1.57,FALSE,2010,TRUE
+MERCH02738,fraud_Harris Inc,gas_transport,small,US,Port Toddfurt,2.71,FALSE,2012,TRUE
+MERCH02785,fraud_Berge LLC,gas_transport,small,US,South Jessicastad,2.5,FALSE,2002,TRUE
+MERCH02789,"fraud_Towne, Walker and Borer",grocery_net,medium,US,Johnberg,2.09,FALSE,2018,TRUE
+MERCH02794,"fraud_Herman, Treutel and Dickens",misc_net,medium,US,Lake Stephen,2.14,TRUE,2017,TRUE
+MERCH02841,fraud_Kris-Weimann,misc_net,medium,US,Vanessahaven,2.12,TRUE,2015,TRUE
+MERCH02867,fraud_Reynolds-Schinner,misc_pos,small,US,North Ethanside,3.45,FALSE,1992,TRUE
+MERCH02881,fraud_Goodwin-Nitzsche,grocery_pos,enterprise,US,Hopkinsbury,1.06,FALSE,2020,TRUE
+MERCH02912,fraud_Jaskolski-Dibbert,grocery_net,small,US,Gonzaleztown,3.11,FALSE,2005,TRUE
+MERCH02947,fraud_Dicki Ltd,grocery_net,medium,UK,Kennethchester,2.23,FALSE,2003,TRUE
+MERCH02956,fraud_Funk Group,grocery_net,small,US,Rileyfort,2.69,FALSE,2012,TRUE
+MERCH03004,"fraud_Rutherford, Homenick and Bergstrom",grocery_net,enterprise,US,West Dawn,1.53,FALSE,1999,TRUE
+MERCH03060,"fraud_Kerluke, Kertzmann and Wiza",misc_net,small,US,South Derekchester,3.34,TRUE,1994,TRUE
+MERCH03087,fraud_Donnelly PLC,misc_net,small,US,Tinaville,3.32,TRUE,2010,TRUE
+MERCH03162,fraud_Spinka-Welch,grocery_net,small,US,East Amber,2.67,FALSE,1999,FALSE
+MERCH03175,fraud_Brown PLC,misc_net,medium,US,East William,2.35,TRUE,2005,TRUE
+MERCH03262,fraud_Kunde-Sanford,misc_net,medium,US,Smithland,2.18,TRUE,1995,TRUE
+MERCH03279,"fraud_Parisian, Schiller and Altenwerth",misc_net,small,US,Samanthaburgh,2.54,TRUE,2004,TRUE
+MERCH03304,fraud_Smitham-Boehm,grocery_net,small,US,Howardberg,2.56,FALSE,2014,TRUE
+MERCH03368,fraud_Shields Inc,grocery_net,small,UK,New Isaacside,3.31,FALSE,2003,FALSE
+MERCH03389,"fraud_Johnston, Nikolaus and Maggio",grocery_net,medium,US,Kirkchester,2.39,FALSE,2016,TRUE
+MERCH03429,fraud_Smitham-Schiller,grocery_net,enterprise,UK,New Andrewport,1.75,FALSE,2008,TRUE
+MERCH03462,fraud_Hills-Olson,grocery_net,medium,US,Laurieburgh,2.43,FALSE,2012,TRUE
+MERCH03469,"fraud_Rippin, Kub and Mann",misc_net,medium,US,Lake Christopher,2.2,TRUE,2009,TRUE
+MERCH03558,fraud_Rempel PLC,grocery_net,enterprise,US,Port Donald,1.76,FALSE,1995,FALSE
+MERCH03612,fraud_Leannon-Nikolaus,travel,enterprise,US,North Lauren,1.34,FALSE,2011,TRUE
+MERCH03676,"fraud_Monahan, Hermann and Johns",travel,enterprise,UK,Elizabethview,1.67,FALSE,1998,TRUE
+MERCH03786,fraud_Block-Hauck,travel,medium,Canada,Port Reginachester,1.86,FALSE,2007,TRUE
+MERCH05055,"fraud_Hagenes, Hermann and Stroman",travel,small,US,Michaelton,2.96,FALSE,2017,TRUE
+MERCH05524,fraud_Hermann-Gaylord,misc_pos,medium,US,West Yvonne,2.35,FALSE,1993,TRUE
+MERCH05699,fraud_Mante Group,misc_net,small,US,Port Scott,3.26,TRUE,2020,TRUE
+MERCH06341,fraud_Corwin-Gorczany,misc_net,small,Canada,Cruztown,3.29,TRUE,2017,TRUE
+MERCH07271,fraud_McCullough Group,grocery_net,small,US,West Samuel,2.88,FALSE,2005,TRUE

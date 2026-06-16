@@ -1,0 +1,10 @@
+version: 2
+
+seeds:
+  - name: merchants
+    description: "Merchant data for the fintech company."
+    columns:
+      - name: merchant_id
+        tests:
+          - unique
+          - not_null

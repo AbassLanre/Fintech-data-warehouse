@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: "Raw sparkov data loaded outside dbt"
+    schema: bronze
+    tables:
+      - name: sparkov_fraud_test
